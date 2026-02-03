@@ -65,8 +65,8 @@ An example of an JSON object:
 ## Complete List of Cardinals
 Total: **245 cardinals**
 
-- **Eligible to vote in Papal Conclave**: 122
-- **Ineligible to vote** (over 80 years old): 123
+- **Eligible to vote in Papal Conclave**: 121
+- **Ineligible to vote** (over 80 years old): 124
 
 | Rank | Name | Country | Born | Office |
 |------|------|---------|------|--------|
@@ -307,7 +307,7 @@ Total: **245 cardinals**
 | 235 | Claudio Gugerotti | Italy | 7 October 1955 | Prefect of the Dicastery for the Eastern Churches |
 | 236 | Víctor Manuel Fernández | Argentina | 18 July 1962 | Prefect of the Dicastery for the Doctrine of the Faith |
 | 237 | Emil Paul Tscherrig | Switzerland | 3 February 1947 | Apostolic Nuncio emeritus to Italy and San Marino |
-| 238 | Christophe Pierre | France | 30 January 1946 | Apostolic Nuncio to the United States |
+| 238 | Christophe Pierre* | France | 30 January 1946 | Apostolic Nuncio to the United States |
 | 239 | Ángel Fernández Artime SDB | Spain | 21 August 1960 | Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of |
 | 240 | Agostino Marchetto* | Italy | 28 August 1940 | Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants a |
 | 241 | Angelo Acerbi* | Italy | 23 September 1925 | Apostolic Nuncio emeritus |

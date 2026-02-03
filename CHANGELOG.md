@@ -2,6 +2,15 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-02-03
+
+### Modified Cardinals (3)
+- **Mario Zenari**
+  - Office: `Apostolic Nuncio to Syria` → `Apostolic Nuncio emeritus`
+- **Michael Fitzgerald MAfr**
+  - Office: `Apostolic Nuncio emeritus to Egypt` → `Apostolic Nuncio emeritus`
+- **Emil Paul Tscherrig**
+  - Office: `Apostolic Nuncio emeritus to Italy and San Marino` → `Apostolic Nuncio emeritus`
 ## Changes detected on 2026-01-30
 
 ### Modified Cardinals (1)
