@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-02-17
+
+### Modified Cardinals (1)
+- **Arlindo Gomes Furtado**
+  - Office: `Bishop of Santiago de Cabo Verde` → `Bishop emeritus of Santiago de Cabo Verde`
 ## Changes detected on 2026-02-03
 
 ### Modified Cardinals (3)

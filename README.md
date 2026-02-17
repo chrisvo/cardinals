@@ -283,7 +283,7 @@ Total: **245 cardinals**
 | 211 | Mykola Bychok CSsR | Australia[t] | 13 February 1980 | Eparch of Saints Peter and Paul of Melbourne(Ukrainian Greek Church) |
 | 212 | Domenico Battaglia | Italy | 20 January 1963 | Archbishop of Naples |
 | 213 | Dominique Mamberti | France | 7 March 1952 | Prefect of the Supreme Tribunal of the Apostolic Signatura |
-| 214 | Mario Zenari* | Italy | 5 January 1946 | Apostolic Nuncio to Syria |
+| 214 | Mario Zenari* | Italy | 5 January 1946 | Apostolic Nuncio emeritus |
 | 215 | Kevin Farrell | United States[u] | 2 September 1947 | Prefect of the Dicastery for the Laity, Family and Life |
 | 216 | Ernest Simoni* | Albania | 18 October 1928 | Priest of the Archdiocese of Shkodër–Pult |
 | 217 | Luis Ladaria Ferrer SJ* | Spain | 19 April 1944 | Prefect emeritus of the Dicastery for the Doctrine of the Faith |
@@ -292,7 +292,7 @@ Total: **245 cardinals**
 | 220 | Aquilino Bocos Merino CMF* | Spain | 17 May 1938 | Superior General emeritus of the Missionary Sons of the Immaculate Heart of Mary |
 | 221 | José Tolentino de Mendonça | Portugal | 15 December 1965 | Prefect of the Dicastery for Culture and Education |
 | 222 | Michael Czerny SJ | Canada[x] | 18 July 1946 | Prefect of the Dicastery for Promoting Integral Human Development |
-| 223 | Michael Fitzgerald MAfr* | United Kingdom | 17 August 1937 | Apostolic Nuncio emeritus to Egypt |
+| 223 | Michael Fitzgerald MAfr* | United Kingdom | 17 August 1937 | Apostolic Nuncio emeritus |
 | 224 | Mario Grech | Malta | 20 February 1957 | Secretary-General of the Synod of Bishops |
 | 225 | Marcello Semeraro | Italy | 22 December 1947 | Prefect of the Dicastery for the Causes of Saints |
 | 226 | Mauro Gambetti OFMConv | Italy | 27 October 1965 | Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter  |
@@ -306,7 +306,7 @@ Total: **245 cardinals**
 | 234 | Fortunato Frezza* | Italy | 6 February 1942 | Canon of the Chapter of the Papal Basilica of Saint Peter |
 | 235 | Claudio Gugerotti | Italy | 7 October 1955 | Prefect of the Dicastery for the Eastern Churches |
 | 236 | Víctor Manuel Fernández | Argentina | 18 July 1962 | Prefect of the Dicastery for the Doctrine of the Faith |
-| 237 | Emil Paul Tscherrig | Switzerland | 3 February 1947 | Apostolic Nuncio emeritus to Italy and San Marino |
+| 237 | Emil Paul Tscherrig | Switzerland | 3 February 1947 | Apostolic Nuncio emeritus |
 | 238 | Christophe Pierre* | France | 30 January 1946 | Apostolic Nuncio to the United States |
 | 239 | Ángel Fernández Artime SDB | Spain | 21 August 1960 | Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of |
 | 240 | Agostino Marchetto* | Italy | 28 August 1940 | Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants a |
