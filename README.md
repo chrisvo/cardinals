@@ -197,7 +197,7 @@ Total: **245 cardinals**
 | 125 | Daniel Sturla SDB | Uruguay | 4 July 1959 | Archbishop of Montevideo |
 | 126 | Ricardo Blázquez* | Spain | 13 April 1942 | Archbishop emeritus of Valladolid |
 | 127 | José Luis Lacunza Maestrojuán OAR* | Panama[k] | 24 February 1944 | Bishop emeritus of David |
-| 128 | Arlindo Gomes Furtado | Cape Verde | 15 November 1949 | Bishop of Santiago de Cabo Verde |
+| 128 | Arlindo Gomes Furtado | Cape Verde | 15 November 1949 | Bishop emeritus of Santiago de Cabo Verde |
 | 129 | Soane Patita Paini Mafi | Tonga | 19 December 1961 | Bishop of Tonga |
 | 130 | Luis Héctor Villalba* | Argentina | 11 October 1934 | Archbishop emeritus of Tucumán |
 | 131 | Júlio Duarte Langa* | Mozambique | 27 October 1927 | Bishop emeritus of Xai-Xai |
