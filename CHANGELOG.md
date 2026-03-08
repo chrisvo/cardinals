@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-03-08
+
+### Modified Cardinals (1)
+- **Christophe Pierre**
+  - Office: `Apostolic Nuncio to the United States` → `Apostolic Nuncio emeritus`
 ## Changes detected on 2026-02-21
 
 ### Removed Cardinals (1)
