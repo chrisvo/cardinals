@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-03-11
+
+### Modified Cardinals (1)
+- **Louis Raphaël I Sako**
+  - Office: `Patriarch of Baghdad(Chaldean Church)` → `Patriarch emeritus of Baghdad(Chaldean Church)`
 ## Changes detected on 2026-03-08
 
 ### Modified Cardinals (1)

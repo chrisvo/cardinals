@@ -306,7 +306,7 @@ Total: **244 cardinals**
 | 234 | Claudio Gugerotti | Italy | 7 October 1955 | Prefect of the Dicastery for the Eastern Churches |
 | 235 | Víctor Manuel Fernández | Argentina | 18 July 1962 | Prefect of the Dicastery for the Doctrine of the Faith |
 | 236 | Emil Paul Tscherrig | Switzerland | 3 February 1947 | Apostolic Nuncio emeritus |
-| 237 | Christophe Pierre* | France | 30 January 1946 | Apostolic Nuncio to the United States |
+| 237 | Christophe Pierre* | France | 30 January 1946 | Apostolic Nuncio emeritus |
 | 238 | Ángel Fernández Artime SDB | Spain | 21 August 1960 | Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of |
 | 239 | Agostino Marchetto* | Italy | 28 August 1940 | Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants a |
 | 240 | Angelo Acerbi* | Italy | 23 September 1925 | Apostolic Nuncio emeritus |
