@@ -81,7 +81,7 @@ Total: **244 cardinals**
 | 9 | Beniamino Stella* | Italy | 18 August 1941 | Prefect emeritus of the Congregation for the Clergy |
 | 10 | Luis Antonio Tagle | Philippines | 21 June 1957 | Pro-Prefect of the Dicastery for Evangelization |
 | 11 | Bechara Boutros al-Rahi OMM* | Lebanon | 25 February 1940 | Patriarch of Antioch(Maronite Church) |
-| 12 | Louis Raphaël I Sako | Iraq | 4 July 1948 | Patriarch of Baghdad(Chaldean Church) |
+| 12 | Louis Raphaël I Sako | Iraq | 4 July 1948 | Patriarch emeritus of Baghdad(Chaldean Church) |
 | 13 | Michael Michai Kitbunchu* | Thailand | 25 January 1929 | Archbishop emeritus of Bangkok |
 | 14 | Paul Poupard* | France | 30 August 1930 | President emeritus of the Pontifical Councils for Culture and for Interreligious |
 | 15 | Friedrich Wetter* | Germany | 20 February 1928 | Archbishop emeritus of Munich and Freising |

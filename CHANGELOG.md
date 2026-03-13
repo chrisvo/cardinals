@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-03-13
+
+### Modified Cardinals (1)
+- **Konrad Krajewski**
+  - Office: `Almoner of His Holiness` → `Archbishop of Łódź`
 ## Changes detected on 2026-03-11
 
 ### Modified Cardinals (1)
