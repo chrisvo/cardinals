@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-04-16
+
+### Modified Cardinals (1)
+- **Fernando Filoni**
+  - PapalConclaveEligible: `True` → `False`
 ## Changes detected on 2026-03-23
 
 ### Removed Cardinals (1)
