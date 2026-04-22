@@ -85,7 +85,7 @@
     <Order>CB</Order>
     <Consistory>18 February 2012</Consistory>
     <Office>Grand Master of the Order of the Holy Sepulchre</Office>
-    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
     <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>

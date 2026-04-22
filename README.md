@@ -65,8 +65,8 @@ An example of an JSON object:
 ## Complete List of Cardinals
 Total: **243 cardinals**
 
-- **Eligible to vote in Papal Conclave**: 121
-- **Ineligible to vote** (over 80 years old): 122
+- **Eligible to vote in Papal Conclave**: 120
+- **Ineligible to vote** (over 80 years old): 123
 
 | Rank | Name | Country | Born | Office |
 |------|------|---------|------|--------|
@@ -77,7 +77,7 @@ Total: **243 cardinals**
 | 5 | José Saraiva Martins CMF* | Portugal | 6 January 1932 | Prefect emeritus of the Congregation for the Causes of Saints |
 | 6 | Pietro Parolin | Italy | 17 January 1955 | Secretary of State of His Holiness |
 | 7 | Marc Ouellet PSS* | Canada | 8 June 1944 | Prefect emeritus of the Dicastery for Bishops |
-| 8 | Fernando Filoni | Italy | 15 April 1946 | Grand Master of the Order of the Holy Sepulchre |
+| 8 | Fernando Filoni* | Italy | 15 April 1946 | Grand Master of the Order of the Holy Sepulchre |
 | 9 | Beniamino Stella* | Italy | 18 August 1941 | Prefect emeritus of the Congregation for the Clergy |
 | 10 | Luis Antonio Tagle | Philippines | 21 June 1957 | Pro-Prefect of the Dicastery for Evangelization |
 | 11 | Bechara Boutros al-Rahi OMM* | Lebanon | 25 February 1940 | Patriarch of Antioch(Maronite Church) |
