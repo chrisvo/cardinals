@@ -1559,7 +1559,7 @@
     <Order>CP</Order>
     <Consistory>28 June 2017</Consistory>
     <Office>Archbishop of Barcelona</Office>
-    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>

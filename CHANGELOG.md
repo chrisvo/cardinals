@@ -2,6 +2,57 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-05-13
+
+### Removed Cardinals (1)
+- **George Koovakad** (India)
+
+### Modified Cardinals (8)
+- **Christophe Pierre**
+  - Name: `Emil Paul Tscherrig` → `Christophe Pierre`
+  - Country: `Switzerland` → `France`
+  - Born: `3 February 1947` → `30 January 1946`
+  - PapalConclaveEligible: `True` → `False`
+- **Ángel Fernández Artime SDB**
+  - Name: `Christophe Pierre` → `Ángel Fernández Artime SDB`
+  - Country: `France` → `Spain`
+  - Born: `30 January 1946` → `21 August 1960`
+  - Office: `Apostolic Nuncio emeritus` → `Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life`
+  - PapalConclaveEligible: `False` → `True`
+- **Agostino Marchetto**
+  - Name: `Ángel Fernández Artime SDB` → `Agostino Marchetto`
+  - Country: `Spain` → `Italy`
+  - Born: `21 August 1960` → `28 August 1940`
+  - Office: `Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life` → `Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People`
+  - PapalConclaveEligible: `True` → `False`
+- **Angelo Acerbi**
+  - Name: `Agostino Marchetto` → `Angelo Acerbi`
+  - Born: `28 August 1940` → `23 September 1925`
+  - Consistory: `30 September 2023` → `7 December 2024`
+  - Office: `Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People` → `Apostolic Nuncio emeritus`
+- **Rolandas Makrickas**
+  - Name: `Angelo Acerbi` → `Rolandas Makrickas`
+  - Country: `Italy` → `Lithuania`
+  - Born: `23 September 1925` → `31 January 1972`
+  - Office: `Apostolic Nuncio emeritus` → `Archpriest of the Papal Basilica of Saint Mary Major`
+  - PapalConclaveEligible: `False` → `True`
+- **Timothy Radcliffe OP**
+  - Name: `Rolandas Makrickas` → `Timothy Radcliffe OP`
+  - Country: `Lithuania` → `United Kingdom`
+  - Born: `31 January 1972` → `22 August 1945`
+  - Office: `Archpriest of the Papal Basilica of Saint Mary Major` → `Master emeritus of the Order of Preachers`
+  - PapalConclaveEligible: `True` → `False`
+- **Fabio Baggio CS**
+  - Name: `Timothy Radcliffe OP` → `Fabio Baggio CS`
+  - Country: `United Kingdom` → `Italy`
+  - Born: `22 August 1945` → `15 January 1965`
+  - Office: `Master emeritus of the Order of Preachers` → `Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoting Integral Human Development`
+  - PapalConclaveEligible: `False` → `True`
+- **George Koovakad**
+  - Name: `Fabio Baggio CS` → `George Koovakad`
+  - Country: `Italy` → `India`
+  - Born: `15 January 1965` → `11 August 1973`
+  - Office: `Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoting Integral Human Development` → `Prefect of the Dicastery for Interreligious Dialogue`
 ## Changes detected on 2026-04-22
 
 ### Modified Cardinals (1)

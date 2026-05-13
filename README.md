@@ -65,8 +65,8 @@ An example of an JSON object:
 ## Complete List of Cardinals
 Total: **243 cardinals**
 
-- **Eligible to vote in Papal Conclave**: 120
-- **Ineligible to vote** (over 80 years old): 123
+- **Eligible to vote in Papal Conclave**: 119
+- **Ineligible to vote** (over 80 years old): 124
 
 | Rank | Name | Country | Born | Office |
 |------|------|---------|------|--------|
@@ -211,7 +211,7 @@ Total: **243 cardinals**
 | 139 | John Ribat MSC | Papua New Guinea | 9 February 1957 | Archbishop of Port Moresby |
 | 140 | Joseph W. Tobin CSsR | United States | 3 May 1952 | Archbishop of Newark |
 | 141 | Jean Zerbo* | Mali | 27 December 1943 | Archbishop emeritus of Bamako |
-| 142 | Juan José Omella | Spain | 21 April 1946 | Archbishop of Barcelona |
+| 142 | Juan José Omella* | Spain | 21 April 1946 | Archbishop of Barcelona |
 | 143 | Anders Arborelius OCD | Sweden | 24 September 1949 | Bishop of Stockholm |
 | 144 | Louis-Marie Ling Mangkhanekhoun IVD* | Laos | 8 April 1944 | Apostolic Vicar emeritus of Vientiane |
 | 145 | Gregorio Rosa Chávez* | El Salvador | 3 September 1942 | Auxiliary Bishop emeritus of San Salvador |
