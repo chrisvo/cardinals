@@ -63,9 +63,9 @@ An example of an JSON object:
 
 <!-- CARDINAL_LIST_START -->
 ## Complete List of Cardinals
-Total: **243 cardinals**
+Total: **242 cardinals**
 
-- **Eligible to vote in Papal Conclave**: 119
+- **Eligible to vote in Papal Conclave**: 118
 - **Ineligible to vote** (over 80 years old): 124
 
 | Rank | Name | Country | Born | Office |
@@ -304,15 +304,14 @@ Total: **243 cardinals**
 | 232 | Fortunato Frezza* | Italy | 6 February 1942 | Canon of the Chapter of the Papal Basilica of Saint Peter |
 | 233 | Claudio Gugerotti | Italy | 7 October 1955 | Prefect of the Dicastery for the Eastern Churches |
 | 234 | Víctor Manuel Fernández | Argentina | 18 July 1962 | Prefect of the Dicastery for the Doctrine of the Faith |
-| 235 | Emil Paul Tscherrig | Switzerland | 3 February 1947 | Apostolic Nuncio emeritus |
-| 236 | Christophe Pierre* | France | 30 January 1946 | Apostolic Nuncio emeritus |
-| 237 | Ángel Fernández Artime SDB | Spain | 21 August 1960 | Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of |
-| 238 | Agostino Marchetto* | Italy | 28 August 1940 | Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants a |
-| 239 | Angelo Acerbi* | Italy | 23 September 1925 | Apostolic Nuncio emeritus |
-| 240 | Rolandas Makrickas | Lithuania | 31 January 1972 | Archpriest of the Papal Basilica of Saint Mary Major |
-| 241 | Timothy Radcliffe OP* | United Kingdom | 22 August 1945 | Master emeritus of the Order of Preachers |
-| 242 | Fabio Baggio CS | Italy | 15 January 1965 | Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoti |
-| 243 | George Koovakad | India | 11 August 1973 | Prefect of the Dicastery for Interreligious Dialogue |
+| 235 | Christophe Pierre* | France | 30 January 1946 | Apostolic Nuncio emeritus |
+| 236 | Ángel Fernández Artime SDB | Spain | 21 August 1960 | Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of |
+| 237 | Agostino Marchetto* | Italy | 28 August 1940 | Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants a |
+| 238 | Angelo Acerbi* | Italy | 23 September 1925 | Apostolic Nuncio emeritus |
+| 239 | Rolandas Makrickas | Lithuania | 31 January 1972 | Archpriest of the Papal Basilica of Saint Mary Major |
+| 240 | Timothy Radcliffe OP* | United Kingdom | 22 August 1945 | Master emeritus of the Order of Preachers |
+| 241 | Fabio Baggio CS | Italy | 15 January 1965 | Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoti |
+| 242 | George Koovakad | India | 11 August 1973 | Prefect of the Dicastery for Interreligious Dialogue |
 
 *\* Cardinals over 80 years old are ineligible to vote in a papal conclave*
 

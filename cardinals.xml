@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<Cardinals total="243">
+<Cardinals total="242">
   <Cardinal>
     <Rank>1</Rank>
     <Name>Giovanni Battista Re</Name>
@@ -2576,17 +2576,6 @@
   </Cardinal>
   <Cardinal>
     <Rank>235</Rank>
-    <Name>Emil Paul Tscherrig</Name>
-    <Country>Switzerland</Country>
-    <Born>3 February 1947</Born>
-    <Order>CD</Order>
-    <Consistory>30 September 2023</Consistory>
-    <Office>Apostolic Nuncio emeritus</Office>
-    <PapalConclaveEligible>True</PapalConclaveEligible>
-    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
-  </Cardinal>
-  <Cardinal>
-    <Rank>236</Rank>
     <Name>Christophe Pierre</Name>
     <Country>France</Country>
     <Born>30 January 1946</Born>
@@ -2597,7 +2586,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>237</Rank>
+    <Rank>236</Rank>
     <Name>Ángel Fernández Artime SDB</Name>
     <Country>Spain</Country>
     <Born>21 August 1960</Born>
@@ -2608,7 +2597,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>238</Rank>
+    <Rank>237</Rank>
     <Name>Agostino Marchetto</Name>
     <Country>Italy</Country>
     <Born>28 August 1940</Born>
@@ -2619,7 +2608,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>239</Rank>
+    <Rank>238</Rank>
     <Name>Angelo Acerbi</Name>
     <Country>Italy</Country>
     <Born>23 September 1925</Born>
@@ -2630,7 +2619,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>240</Rank>
+    <Rank>239</Rank>
     <Name>Rolandas Makrickas</Name>
     <Country>Lithuania</Country>
     <Born>31 January 1972</Born>
@@ -2641,7 +2630,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>241</Rank>
+    <Rank>240</Rank>
     <Name>Timothy Radcliffe OP</Name>
     <Country>United Kingdom</Country>
     <Born>22 August 1945</Born>
@@ -2652,7 +2641,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>242</Rank>
+    <Rank>241</Rank>
     <Name>Fabio Baggio CS</Name>
     <Country>Italy</Country>
     <Born>15 January 1965</Born>
@@ -2663,7 +2652,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>243</Rank>
+    <Rank>242</Rank>
     <Name>George Koovakad</Name>
     <Country>India</Country>
     <Born>11 August 1973</Born>

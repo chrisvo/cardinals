@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-05-23
+
+### Modified Cardinals (1)
+- **Francesco Montenegro**
+  - PapalConclaveEligible: `True` → `False`
 ## Changes detected on 2026-05-13
 
 ### Removed Cardinals (1)
