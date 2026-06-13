@@ -65,8 +65,8 @@ An example of an JSON object:
 ## Complete List of Cardinals
 Total: **242 cardinals**
 
-- **Eligible to vote in Papal Conclave**: 118
-- **Ineligible to vote** (over 80 years old): 124
+- **Eligible to vote in Papal Conclave**: 117
+- **Ineligible to vote** (over 80 years old): 125
 
 | Rank | Name | Country | Born | Office |
 |------|------|---------|------|--------|
@@ -191,7 +191,7 @@ Total: **242 cardinals**
 | 119 | Alberto Suárez Inda* | Mexico | 30 January 1939 | Archbishop emeritus of Morelia |
 | 120 | Charles Maung Bo SDB | Myanmar | 29 October 1948 | Archbishop of Yangon |
 | 121 | Kriengsak Kovitvanit | Thailand | 27 June 1949 | Archbishop emeritus of Bangkok |
-| 122 | Francesco Montenegro | Italy | 22 May 1946 | Archbishop emeritus of Agrigento |
+| 122 | Francesco Montenegro* | Italy | 22 May 1946 | Archbishop emeritus of Agrigento |
 | 123 | Daniel Sturla SDB | Uruguay | 4 July 1959 | Archbishop of Montevideo |
 | 124 | Ricardo Blázquez* | Spain | 13 April 1942 | Archbishop emeritus of Valladolid |
 | 125 | José Luis Lacunza Maestrojuán OAR* | Panama[k] | 24 February 1944 | Bishop emeritus of David |

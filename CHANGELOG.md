@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-06-13
+
+### Modified Cardinals (1)
+- **Berhaneyesus Demerew Souraphiel CM**
+  - Office: `Archbishop of Addis Abeba(Ethiopian Church)` → `Archbishop emeritus of Addis Abeba(Ethiopian Church)`
 ## Changes detected on 2026-05-23
 
 ### Modified Cardinals (1)
