@@ -185,7 +185,7 @@ Total: **242 cardinals**
 | 113 | Orlando Quevedo OMI* | Philippines | 11 March 1939 | Archbishop emeritus of Cotabato |
 | 114 | Chibly Langlois | Haiti | 29 November 1958 | Bishop of Les Cayes |
 | 115 | Manuel Clemente | Portugal | 16 July 1948 | Patriarch emeritus of Lisbon |
-| 116 | Berhaneyesus Demerew Souraphiel CM | Ethiopia | 14 July 1948 | Archbishop of Addis Abeba(Ethiopian Church) |
+| 116 | Berhaneyesus Demerew Souraphiel CM | Ethiopia | 14 July 1948 | Archbishop emeritus of Addis Abeba(Ethiopian Church) |
 | 117 | John Dew | New Zealand | 5 May 1948 | Archbishop emeritus of Wellington |
 | 118 | Pierre Nguyễn Văn Nhơn* | Vietnam | 1 April 1938 | Archbishop emeritus of Hanoi |
 | 119 | Alberto Suárez Inda* | Mexico | 30 January 1939 | Archbishop emeritus of Morelia |
