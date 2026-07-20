@@ -2,6 +2,250 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-07-20
+
+### New Cardinals (241)
+- **Giovanni Battista Re** (Italy) - Prefect emeritus of the Congregation for Bishops (Dean)
+- **Leonardo Sandri** (Argentina) - Prefect emeritus of the Dicastery for the Eastern Churches (Vice Dean)
+- **Francis Arinze** (Nigeria) - Prefect emeritus of the Congregation for Divine Worship and the Discipline of the Sacraments
+- **Tarcisio Bertone SDB** (Italy) - Secretary of State emeritus of His Holiness and Camerlengo emeritus of the Holy Roman Church
+- **José Saraiva Martins CMF** (Portugal) - Prefect emeritus of the Congregation for the Causes of Saints
+- **Pietro Parolin** (Italy) - Secretary of State of His Holiness
+- **Marc Ouellet PSS** (Canada) - Prefect emeritus of the Dicastery for Bishops
+- **Fernando Filoni** (Italy) - Grand Master of the Order of the Holy Sepulchre
+- **Beniamino Stella** (Italy) - Prefect emeritus of the Congregation for the Clergy
+- **Luis Antonio Tagle** (Philippines) - Pro-Prefect of the Dicastery for Evangelization
+- **Bechara Boutros al-Rahi OMM** (Lebanon) - Patriarch of Antioch(Maronite Church)
+- **Louis Raphaël I Sako** (Iraq) - Patriarch emeritus of Baghdad(Chaldean Church)
+- **Michael Michai Kitbunchu** (Thailand) - Archbishop emeritus of Bangkok
+- **Paul Poupard** (France) - President emeritus of the Pontifical Councils for Culture and for Interreligious Dialogue
+- **Friedrich Wetter** (Germany) - Archbishop emeritus of Munich and Freising
+- **Nicolás de Jesús López Rodríguez** (Dominican Republic) - Archbishop emeritus of Santo Domingo
+- **Roger Mahony** (United States) - Archbishop emeritus of Los Angeles
+- **Julius Darmaatmadja SJ** (Indonesia) - Archbishop emeritus of Jakarta
+- **Emmanuel Wamala** (Uganda) - Archbishop emeritus of Kampala
+- **Adam Maida** (United States) - Archbishop emeritus of Detroit
+- **Vinko Puljić** (Bosnia and Herzegovina) - Archbishop emeritus of Vrhbosna
+- **Juan Sandoval Íñiguez** (Mexico) - Archbishop emeritus of Guadalajara
+- **James Stafford** (United States) - Major Penitentiary emeritus
+- **Salvatore De Giorgi** (Italy) - Archbishop emeritus of Palermo
+- **Antonio María Rouco Varela** (Spain) - Archbishop emeritus of Madrid
+- **Christoph Schönborn OP** (Austria[d]) - Archbishop emeritus of Vienna
+- **Norberto Rivera Carrera** (Mexico) - Archbishop emeritus of Mexico
+- **Jānis Pujats** (Latvia) - Archbishop emeritus of Riga
+- **Crescenzio Sepe** (Italy) - Archbishop emeritus of Naples
+- **Walter Kasper** (Germany) - President emeritus of the Pontifical Council for Promoting Christian Unity
+- **Audrys Bačkis** (Lithuania) - Archbishop emeritus of Vilnius
+- **Francisco Javier Errázuriz Ossa ISch** (Chile) - Archbishop emeritus of Santiago de Chile
+- **Wilfrid Napier OFM** (South Africa) - Archbishop emeritus of Durban
+- **Óscar Rodríguez Maradiaga SDB** (Honduras) - Archbishop emeritus of Tegucigalpa and Coordinator emeritus of the Council of Cardinals
+- **Juan Luis Cipriani Thorne** (Peru) - Archbishop emeritus of Lima
+- **Julián Herranz Casado** (Spain) - President emeritus of the Pontifical Council for Legislative Texts
+- **Angelo Scola** (Italy) - Archbishop emeritus of Milan
+- **Anthony Olubunmi Okogie** (Nigeria) - Archbishop emeritus of Lagos
+- **Gabriel Zubeir Wako** (Sudan) - Archbishop emeritus of Khartoum
+- **Justin Rigali** (United States) - Archbishop emeritus of Philadelphia
+- **Ennio Antonelli** (Italy) - President emeritus of the Pontifical Council for the Family
+- **Peter Turkson** (Ghana) - Chancellor of the Pontifical Academy of Sciences and the Pontifical Academy of Social Sciences
+- **Josip Bozanić** (Croatia) - Archbishop emeritus of Zagreb
+- **Philippe Barbarin** (France) - Archbishop emeritus of Lyon
+- **Péter Erdő** (Hungary) - Archbishop of Esztergom–Budapest
+- **Franc Rodé CM** (Slovenia) - Prefect emeritus of the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life
+- **Agostino Vallini** (Italy) - Pontifical Legate emeritus for the Basilicas of Saint Francis and Saint Mary of the Angels in Assisi
+- **Gaudencio Borbon Rosales** (Philippines) - Archbishop emeritus of Manila
+- **Jean-Pierre Ricard** (France) - Archbishop emeritus of Bordeaux
+- **Antonio Cañizares Llovera** (Spain) - Archbishop emeritus of Valencia
+- **Seán Patrick O'Malley OFMCap** (United States) - Archbishop emeritus of Boston and President emeritus of the Pontifical Commission for the Protection of Minors
+- **Stanisław Dziwisz** (Poland) - Archbishop emeritus of Kraków
+- **Joseph Zen Ze-kiun SDB** (China(Hong Kong)[f]) - Bishop emeritus of Hong Kong
+- **Giovanni Lajolo** (Italy) - President emeritus of the Pontifical Commission for Vatican City State
+- **Angelo Comastri** (Italy) - Vicar General emeritus for Vatican City, Archpriest emeritus of the Papal Basilica of Saint Peter and President emeritus of the Fabric of Saint Peter
+- **Stanisław Ryłko** (Poland) - Archpriest emeritus of the Papal Basilica of Saint Mary Major
+- **Raffaele Farina SDB** (Italy) - Archivist and Librarian emeritus of the Holy Roman Church
+- **Seán Brady** (Ireland[g]) - Archbishop emeritus of Armagh
+- **Lluís Martínez i Sistach** (Spain) - Archbishop emeritus of Barcelona
+- **Angelo Bagnasco** (Italy) - Archbishop emeritus of Genoa
+- **Théodore-Adrien Sarr** (Senegal) - Archbishop emeritus of Dakar
+- **Oswald Gracias** (India) - Archbishop emeritus of Bombay
+- **Francisco Robles Ortega** (Mexico) - Archbishop of Guadalajara
+- **Daniel DiNardo** (United States) - Archbishop emeritus of Galveston–Houston
+- **Odilo Scherer** (Brazil) - Archbishop of São Paulo
+- **John Njue** (Kenya) - Archbishop emeritus of Nairobi
+- **Robert Sarah** (Guinea) - Prefect emeritus of the Congregation for Divine Worship and the Discipline of the Sacraments
+- **Francesco Monterisi** (Italy) - Archpriest emeritus of the Papal Basilica of Saint Paul Outside the Walls
+- **Raymond Leo Burke** (United States) - Patron emeritus of the Sovereign Military Order of Malta
+- **Kurt Koch** (Switzerland) - Prefect of the Dicastery for Promoting Christian Unity
+- **Mauro Piacenza** (Italy) - Major Penitentiary emeritus
+- **Gianfranco Ravasi** (Italy) - President emeritus of the Pontifical Council for Culture
+- **Paolo Romeo** (Italy) - Archbishop emeritus of Palermo
+- **Donald Wuerl** (United States) - Archbishop emeritus of Washington
+- **Raymundo Damasceno Assis** (Brazil) - Archbishop emeritus of Aparecida
+- **Kazimierz Nycz** (Poland) - Archbishop emeritus of Warsaw
+- **Malcolm Ranjith** (Sri Lanka) - Archbishop of Colombo
+- **Reinhard Marx** (Germany) - Archbishop of Munich and Freising and Coordinator of the Council for the Economy
+- **Walter Brandmüller** (Germany) - President emeritus of the Pontifical Committee for Historical Sciences
+- **Manuel Monteiro de Castro** (Portugal) - Major Penitentiary emeritus
+- **Santos Abril y Castelló** (Spain) - Archpriest emeritus of the Papal Basilica of Saint Mary Major
+- **Antonio Maria Vegliò** (Italy) - President emeritus of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People
+- **Giuseppe Bertello** (Italy) - President emeritus of the Pontifical Commission for Vatican City State
+- **Francesco Coccopalmerio** (Italy) - President emeritus of the Pontifical Council for Legislative Texts
+- **João Braz de Aviz** (Brazil) - Prefect emeritus of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life
+- **Edwin Frederick O'Brien** (United States) - Grand Master emeritus of the Order of the Holy Sepulchre
+- **Domenico Calcagno** (Italy) - President emeritus of the Administration of the Patrimony of the Apostolic See
+- **Giuseppe Versaldi** (Italy) - Prefect emeritus of the Congregation for Catholic Education
+- **George Alencherry** (India) - Major Archbishop emeritus of Ernakulam–Angamaly(Syro-Malabar Church)
+- **Thomas Collins** (Canada) - Archbishop emeritus of Toronto
+- **Wim Eijk** (Netherlands) - Archbishop of Utrecht
+- **Giuseppe Betori** (Italy) - Archbishop emeritus of Florence
+- **Timothy M. Dolan** (United States) - Archbishop emeritus of New York
+- **Rainer Woelki** (Germany) - Archbishop of Cologne
+- **John Tong Hon** (China(Hong Kong)[f]) - Bishop emeritus of Hong Kong
+- **James Michael Harvey** (United States) - Archpriest of the Papal Basilica of Saint Paul Outside the Walls
+- **Baselios Cleemis** (India) - Major Archbishop of Trivandrum(Syro-Malankara Church)
+- **John Onaiyekan** (Nigeria) - Archbishop emeritus of Abuja
+- **Rubén Salazar Gómez** (Colombia) - Archbishop emeritus of Bogotá
+- **Lorenzo Baldisseri** (Italy) - Secretary-General emeritus of the Synod of Bishops
+- **Gerhard Ludwig Müller** (Germany) - Prefect emeritus of the Congregation for the Doctrine of the Faith
+- **Vincent Nichols** (United Kingdom) - Archbishop emeritus of Westminster
+- **Leopoldo Brenes** (Nicaragua) - Archbishop of Managua
+- **Gérald Lacroix ISPX** (Canada) - Archbishop of Quebec
+- **Jean-Pierre Kutwa** (Ivory Coast) - Archbishop emeritus of Abidjan
+- **Orani João Tempesta OCist** (Brazil) - Archbishop of São Sebastião do Rio de Janeiro
+- **Gualtiero Bassetti** (Italy) - Archbishop emeritus of Perugia–Città della Pieve
+- **Mario Aurelio Poli** (Argentina) - Archbishop emeritus of Buenos Aires
+- **Andrew Yeom Soo-jung** (South Korea) - Archbishop emeritus of Seoul
+- **Ricardo Ezzati SDB** (Chile[i]) - Archbishop emeritus of Santiago de Chile
+- **Philippe Ouédraogo** (Burkina Faso) - Archbishop emeritus of Ouagadougou
+- **Orlando Quevedo OMI** (Philippines) - Archbishop emeritus of Cotabato
+- **Chibly Langlois** (Haiti) - Bishop of Les Cayes
+- **Manuel Clemente** (Portugal) - Patriarch emeritus of Lisbon
+- **Berhaneyesus Demerew Souraphiel CM** (Ethiopia) - Archbishop emeritus of Addis Abeba(Ethiopian Church)
+- **John Dew** (New Zealand) - Archbishop emeritus of Wellington
+- **Pierre Nguyễn Văn Nhơn** (Vietnam) - Archbishop emeritus of Hanoi
+- **Alberto Suárez Inda** (Mexico) - Archbishop emeritus of Morelia
+- **Charles Maung Bo SDB** (Myanmar) - Archbishop of Yangon
+- **Kriengsak Kovitvanit** (Thailand) - Archbishop emeritus of Bangkok
+- **Francesco Montenegro** (Italy) - Archbishop emeritus of Agrigento
+- **Daniel Sturla SDB** (Uruguay) - Archbishop of Montevideo
+- **Ricardo Blázquez** (Spain) - Archbishop emeritus of Valladolid
+- **José Luis Lacunza Maestrojuán OAR** (Panama[k]) - Bishop emeritus of David
+- **Arlindo Gomes Furtado** (Cape Verde) - Bishop emeritus of Santiago de Cabo Verde
+- **Soane Patita Paini Mafi** (Tonga) - Bishop of Tonga
+- **Luis Héctor Villalba** (Argentina) - Archbishop emeritus of Tucumán
+- **Júlio Duarte Langa** (Mozambique) - Bishop emeritus of Xai-Xai
+- **Dieudonné Nzapalainga CSSp** (Central African Republic) - Archbishop of Bangui
+- **Carlos Osoro Sierra** (Spain) - Archbishop emeritus of Madrid
+- **Sérgio da Rocha** (Brazil) - Archbishop of São Salvador da Bahia
+- **Blase J. Cupich** (United States) - Archbishop of Chicago
+- **Patrick D'Rozario CSC** (Bangladesh) - Archbishop emeritus of Dhaka
+- **Baltazar Enrique Porras Cardozo** (Venezuela) - Archbishop emeritus of Caracas
+- **Jozef De Kesel** (Belgium) - Archbishop emeritus of Mechelen–Brussels
+- **Maurice Piat CSSp** (Mauritius) - Bishop emeritus of Port-Louis
+- **Carlos Aguiar Retes** (Mexico) - Archbishop of Mexico
+- **John Ribat MSC** (Papua New Guinea) - Archbishop of Port Moresby
+- **Joseph W. Tobin CSsR** (United States) - Archbishop of Newark
+- **Jean Zerbo** (Mali) - Archbishop emeritus of Bamako
+- **Juan José Omella** (Spain) - Archbishop of Barcelona
+- **Anders Arborelius OCD** (Sweden) - Bishop of Stockholm
+- **Louis-Marie Ling Mangkhanekhoun IVD** (Laos) - Apostolic Vicar emeritus of Vientiane
+- **Gregorio Rosa Chávez** (El Salvador) - Auxiliary Bishop emeritus of San Salvador
+- **Angelo De Donatis** (Italy) - Major Penitentiary
+- **Joseph Coutts** (Pakistan) - Archbishop emeritus of Karachi
+- **António Marto** (Portugal) - Bishop emeritus of Leiria–Fátima
+- **Pedro Barreto SJ** (Peru) - Archbishop emeritus of Huancayo
+- **Désiré Tsarahazana** (Madagascar) - Archbishop of Toamasina
+- **Giuseppe Petrocchi** (Italy) - Archbishop emeritus of L'Aquila
+- **Thomas Aquino Manyo Maeda** (Japan) - Archbishop of Osaka–Takamatsu
+- **Toribio Ticona Porco** (Bolivia) - Bishop Prelate emeritus of Corocoro
+- **Ignatius Suharyo Hardjoatmodjo** (Indonesia) - Archbishop of Jakarta
+- **Juan García Rodríguez** (Cuba) - Archbishop of San Cristóbal de la Habana
+- **Fridolin Ambongo Besungu OFMCap** (Democratic Republic of the Congo) - Archbishop of Kinshasa
+- **Jean-Claude Hollerich SJ** (Luxembourg) - Archbishop of Luxembourg
+- **Álvaro Leonel Ramazzini Imeri** (Guatemala) - Bishop of Huehuetenango
+- **Matteo Zuppi** (Italy) - Archbishop of Bologna
+- **Cristóbal López Romero SDB** (Morocco[l]) - Archbishop of Rabat
+- **Sigitas Tamkevičius SJ** (Lithuania) - Archbishop emeritus of Kaunas
+- **Antoine Kambanda** (Rwanda) - Archbishop of Kigali
+- **Wilton Daniel Gregory** (United States) - Archbishop emeritus of Washington
+- **Jose Advincula OP** (Philippines) - Archbishop of Manila
+- **Celestino Aós Braco OFMCap** (Chile[m]) - Archbishop emeritus of Santiago de Chile
+- **Augusto Paolo Lojudice** (Italy) - Archbishop of Siena–Colle di Val d'Elsa–Montalcino and Bishop of Montepulciano–Chiusi–Pienza
+- **Felipe Arizmendi Esquivel** (Mexico) - Bishop emeritus of San Cristóbal de Las Casas
+- **Jean-Marc Aveline** (France) - Archbishop of Marseille
+- **Peter Okpaleke** (Nigeria) - Bishop of Ekwulobia
+- **Leonardo Ulrich Steiner OFM** (Brazil) - Archbishop of Manaus
+- **Filipe Neri Ferrão** (India) - Archbishop of Goa and Daman and Patriarch of the East Indies
+- **Robert W. McElroy** (United States) - Archbishop of Washington
+- **Virgílio do Carmo da Silva SDB** (East Timor) - Archbishop of Díli
+- **Oscar Cantoni** (Italy) - Bishop of Como
+- **Anthony Poola** (India) - Archbishop of Hyderabad
+- **Paulo Cezar Costa** (Brazil) - Archbishop of Brasília
+- **William Goh** (Singapore) - Archbishop of Singapore
+- **Adalberto Martínez Flores** (Paraguay) - Archbishop of Asunción
+- **Giorgio Marengo IMC** (Mongolia[n]) - Apostolic Prefect of Ulaanbaatar
+- **Jorge Enrique Jiménez Carvajal CJM** (Colombia) - Archbishop emeritus of Cartagena
+- **Arrigo Miglio** (Italy) - Archbishop emeritus of Cagliari
+- **Pierbattista Pizzaballa OFM** (Jerusalem[o]) - Latin Patriarch of Jerusalem
+- **Stephen Brislin** (South Africa) - Archbishop of Johannesburg
+- **Ángel Sixto Rossi SJ** (Argentina) - Archbishop of Córdoba
+- **Luis José Rueda Aparicio** (Colombia) - Archbishop of Bogotá
+- **Grzegorz Ryś** (Poland) - Archbishop of Kraków
+- **Stephen Ameyu Martin Mulla** (South Sudan) - Archbishop of Juba
+- **José Cobo Cano** (Spain) - Archbishop of Madrid
+- **Protase Rugambwa** (Tanzania) - Archbishop of Tabora
+- **Sebastian Francis** (Malaysia) - Bishop of Penang
+- **Stephen Chow Sau-yan SJ** (China(Hong Kong)[f]) - Bishop of Hong Kong
+- **François-Xavier Bustillo OFMConv** (France[p]) - Bishop of Ajaccio
+- **Américo Aguiar** (Portugal) - Bishop of Setúbal
+- **Diego Rafael Padrón Sánchez** (Venezuela) - Archbishop emeritus of Cumaná
+- **Carlos Castillo Mattasoglio** (Peru) - Archbishop of Lima
+- **Vicente Bokalic Iglic CM** (Argentina) - Archbishop of Santiago del Estero
+- **Luis Cabrera Herrera OFM** (Ecuador) - Archbishop of Guayaquil
+- **Fernando Chomalí Garib** (Chile) - Archbishop of Santiago de Chile
+- **Tarcisio Isao Kikuchi SVD** (Japan) - Archbishop of Tokyo
+- **Pablo Virgilio David** (Philippines) - Bishop of Kalookan
+- **Ladislav Nemet SVD** (Serbia[q]) - Archbishop of Belgrade
+- **Jaime Spengler OFM** (Brazil) - Archbishop of Porto Alegre
+- **Ignace Bessi Dogbo** (Ivory Coast) - Archbishop of Abidjan
+- **Jean-Paul Vesco OP** (Algeria[r]) - Archbishop of Algiers
+- **Dominique Mathieu OFMConv** (Iran[s]) - Archbishop of Tehran–Isfahan
+- **Roberto Repole** (Italy) - Archbishop of Turin and Bishop of Susa
+- **Baldassare Reina** (Italy) - Vicar General for Rome and Archpriest of the Papal Basilica of Saint John Lateran
+- **Frank Leo** (Canada) - Archbishop of Toronto
+- **Mykola Bychok CSsR** (Australia[t]) - Eparch of Saints Peter and Paul of Melbourne(Ukrainian Greek Church)
+- **Domenico Battaglia** (Italy) - Archbishop of Naples
+- **Dominique Mamberti** (France) - Prefect of the Supreme Tribunal of the Apostolic Signatura
+- **Mario Zenari** (Italy) - Apostolic Nuncio emeritus
+- **Kevin Farrell** (United States[u]) - Prefect of the Dicastery for the Laity, Family and Life
+- **Ernest Simoni** (Albania) - Priest of the Archdiocese of Shkodër–Pult
+- **Luis Ladaria Ferrer SJ** (Spain) - Prefect emeritus of the Dicastery for the Doctrine of the Faith
+- **Giovanni Angelo Becciu[w]** (Italy) - Prefect emeritus of the Congregation for the Causes of Saints
+- **Konrad Krajewski** (Poland) - Archbishop of Łódź
+- **Aquilino Bocos Merino CMF** (Spain) - Superior General emeritus of the Missionary Sons of the Immaculate Heart of Mary
+- **José Tolentino de Mendonça** (Portugal) - Prefect of the Dicastery for Culture and Education
+- **Michael Czerny SJ** (Canada[x]) - Prefect of the Dicastery for Promoting Integral Human Development
+- **Michael Fitzgerald MAfr** (United Kingdom) - Apostolic Nuncio emeritus
+- **Mario Grech** (Malta) - Secretary-General of the Synod of Bishops
+- **Marcello Semeraro** (Italy) - Prefect of the Dicastery for the Causes of Saints
+- **Mauro Gambetti OFMConv** (Italy) - Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter and President of the Fabric of Saint Peter
+- **Silvano Maria Tomasi CS** (Italy) - Special Delegate to the Sovereign Military Order of Malta
+- **Raniero Cantalamessa OFMCap** (Italy) - Preacher emeritus of the Papal Household
+- **Enrico Feroci** (Italy) - Pastor of the Shrine of Our Lady of Divine Love in Castel di Leva, Rome
+- **Arthur Roche** (United Kingdom) - Prefect of the Dicastery for Divine Worship and the Discipline of the Sacraments
+- **Lazarus You Heung-sik** (South Korea) - Prefect of the Dicastery for the Clergy
+- **Fernando Vérgez Alzaga LC** (Spain) - President emeritus of the Pontifical Commission for Vatican City State
+- **Gianfranco Ghirlanda SJ** (Italy) - Patron of the Sovereign Military Order of Malta
+- **Fortunato Frezza** (Italy) - Canon of the Chapter of the Papal Basilica of Saint Peter
+- **Claudio Gugerotti** (Italy) - Prefect of the Dicastery for the Eastern Churches
+- **Víctor Manuel Fernández** (Argentina) - Prefect of the Dicastery for the Doctrine of the Faith
+- **Christophe Pierre** (France) - Apostolic Nuncio emeritus
+- **Ángel Fernández Artime SDB** (Spain) - Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life
+- **Agostino Marchetto** (Italy) - Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People
+- **Angelo Acerbi** (Italy) - Apostolic Nuncio emeritus
+- **Rolandas Makrickas** (Lithuania) - Archpriest of the Papal Basilica of Saint Mary Major
+- **Timothy Radcliffe OP** (United Kingdom) - Master emeritus of the Order of Preachers
+- **Fabio Baggio CS** (Italy) - Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoting Integral Human Development
+- **George Koovakad** (India) - Prefect of the Dicastery for Interreligious Dialogue
 ## Changes detected on 2026-06-17
 
 ### Removed Cardinals (1)
