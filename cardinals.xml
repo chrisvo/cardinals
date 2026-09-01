@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<Cardinals total="241">
+<Cardinals total="240">
   <Cardinal>
     <Rank>1</Rank>
     <Name>Giovanni Battista Re</Name>
@@ -1399,17 +1399,6 @@
   </Cardinal>
   <Cardinal>
     <Rank>128</Rank>
-    <Name>Júlio Duarte Langa</Name>
-    <Country>Mozambique</Country>
-    <Born>27 October 1927</Born>
-    <Order>CP</Order>
-    <Consistory>14 February 2015</Consistory>
-    <Office>Bishop emeritus of Xai-Xai</Office>
-    <PapalConclaveEligible>False</PapalConclaveEligible>
-    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
-  </Cardinal>
-  <Cardinal>
-    <Rank>129</Rank>
     <Name>Dieudonné Nzapalainga CSSp</Name>
     <Country>Central African Republic</Country>
     <Born>14 March 1967</Born>
@@ -1420,7 +1409,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>130</Rank>
+    <Rank>129</Rank>
     <Name>Carlos Osoro Sierra</Name>
     <Country>Spain</Country>
     <Born>16 May 1945</Born>
@@ -1431,7 +1420,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>131</Rank>
+    <Rank>130</Rank>
     <Name>Sérgio da Rocha</Name>
     <Country>Brazil</Country>
     <Born>21 October 1959</Born>
@@ -1442,7 +1431,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>132</Rank>
+    <Rank>131</Rank>
     <Name>Blase J. Cupich</Name>
     <Country>United States</Country>
     <Born>19 March 1949</Born>
@@ -1453,7 +1442,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>133</Rank>
+    <Rank>132</Rank>
     <Name>Patrick D'Rozario CSC</Name>
     <Country>Bangladesh</Country>
     <Born>1 October 1943</Born>
@@ -1464,7 +1453,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>134</Rank>
+    <Rank>133</Rank>
     <Name>Baltazar Enrique Porras Cardozo</Name>
     <Country>Venezuela</Country>
     <Born>10 October 1944</Born>
@@ -1475,7 +1464,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>135</Rank>
+    <Rank>134</Rank>
     <Name>Jozef De Kesel</Name>
     <Country>Belgium</Country>
     <Born>17 June 1947</Born>
@@ -1486,7 +1475,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>136</Rank>
+    <Rank>135</Rank>
     <Name>Maurice Piat CSSp</Name>
     <Country>Mauritius</Country>
     <Born>19 July 1941</Born>
@@ -1497,7 +1486,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>137</Rank>
+    <Rank>136</Rank>
     <Name>Carlos Aguiar Retes</Name>
     <Country>Mexico</Country>
     <Born>9 January 1950</Born>
@@ -1508,7 +1497,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>138</Rank>
+    <Rank>137</Rank>
     <Name>John Ribat MSC</Name>
     <Country>Papua New Guinea</Country>
     <Born>9 February 1957</Born>
@@ -1519,7 +1508,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>139</Rank>
+    <Rank>138</Rank>
     <Name>Joseph W. Tobin CSsR</Name>
     <Country>United States</Country>
     <Born>3 May 1952</Born>
@@ -1530,7 +1519,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>140</Rank>
+    <Rank>139</Rank>
     <Name>Jean Zerbo</Name>
     <Country>Mali</Country>
     <Born>27 December 1943</Born>
@@ -1541,7 +1530,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>141</Rank>
+    <Rank>140</Rank>
     <Name>Juan José Omella</Name>
     <Country>Spain</Country>
     <Born>21 April 1946</Born>
@@ -1552,7 +1541,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>142</Rank>
+    <Rank>141</Rank>
     <Name>Anders Arborelius OCD</Name>
     <Country>Sweden</Country>
     <Born>24 September 1949</Born>
@@ -1563,7 +1552,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>143</Rank>
+    <Rank>142</Rank>
     <Name>Louis-Marie Ling Mangkhanekhoun IVD</Name>
     <Country>Laos</Country>
     <Born>8 April 1944</Born>
@@ -1574,7 +1563,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>144</Rank>
+    <Rank>143</Rank>
     <Name>Gregorio Rosa Chávez</Name>
     <Country>El Salvador</Country>
     <Born>3 September 1942</Born>
@@ -1585,7 +1574,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>145</Rank>
+    <Rank>144</Rank>
     <Name>Angelo De Donatis</Name>
     <Country>Italy</Country>
     <Born>4 January 1954</Born>
@@ -1596,7 +1585,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>146</Rank>
+    <Rank>145</Rank>
     <Name>Joseph Coutts</Name>
     <Country>Pakistan</Country>
     <Born>21 July 1945</Born>
@@ -1607,7 +1596,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>147</Rank>
+    <Rank>146</Rank>
     <Name>António Marto</Name>
     <Country>Portugal</Country>
     <Born>5 May 1947</Born>
@@ -1618,7 +1607,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>148</Rank>
+    <Rank>147</Rank>
     <Name>Pedro Barreto SJ</Name>
     <Country>Peru</Country>
     <Born>12 February 1944</Born>
@@ -1629,7 +1618,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>149</Rank>
+    <Rank>148</Rank>
     <Name>Désiré Tsarahazana</Name>
     <Country>Madagascar</Country>
     <Born>13 June 1954</Born>
@@ -1640,7 +1629,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>150</Rank>
+    <Rank>149</Rank>
     <Name>Giuseppe Petrocchi</Name>
     <Country>Italy</Country>
     <Born>19 August 1948</Born>
@@ -1651,7 +1640,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>151</Rank>
+    <Rank>150</Rank>
     <Name>Thomas Aquino Manyo Maeda</Name>
     <Country>Japan</Country>
     <Born>3 March 1949</Born>
@@ -1662,7 +1651,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>152</Rank>
+    <Rank>151</Rank>
     <Name>Toribio Ticona Porco</Name>
     <Country>Bolivia</Country>
     <Born>25 April 1937</Born>
@@ -1673,7 +1662,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>153</Rank>
+    <Rank>152</Rank>
     <Name>Ignatius Suharyo Hardjoatmodjo</Name>
     <Country>Indonesia</Country>
     <Born>9 July 1950</Born>
@@ -1684,7 +1673,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>154</Rank>
+    <Rank>153</Rank>
     <Name>Juan García Rodríguez</Name>
     <Country>Cuba</Country>
     <Born>11 July 1948</Born>
@@ -1695,7 +1684,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>155</Rank>
+    <Rank>154</Rank>
     <Name>Fridolin Ambongo Besungu OFMCap</Name>
     <Country>Democratic Republic of the Congo</Country>
     <Born>24 January 1960</Born>
@@ -1706,7 +1695,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>156</Rank>
+    <Rank>155</Rank>
     <Name>Jean-Claude Hollerich SJ</Name>
     <Country>Luxembourg</Country>
     <Born>9 August 1958</Born>
@@ -1717,7 +1706,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>157</Rank>
+    <Rank>156</Rank>
     <Name>Álvaro Leonel Ramazzini Imeri</Name>
     <Country>Guatemala</Country>
     <Born>16 July 1947</Born>
@@ -1728,7 +1717,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>158</Rank>
+    <Rank>157</Rank>
     <Name>Matteo Zuppi</Name>
     <Country>Italy</Country>
     <Born>11 October 1955</Born>
@@ -1739,7 +1728,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>159</Rank>
+    <Rank>158</Rank>
     <Name>Cristóbal López Romero SDB</Name>
     <Country>Morocco[l]</Country>
     <Born>19 May 1952</Born>
@@ -1750,7 +1739,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>160</Rank>
+    <Rank>159</Rank>
     <Name>Sigitas Tamkevičius SJ</Name>
     <Country>Lithuania</Country>
     <Born>7 November 1938</Born>
@@ -1761,7 +1750,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>161</Rank>
+    <Rank>160</Rank>
     <Name>Antoine Kambanda</Name>
     <Country>Rwanda</Country>
     <Born>10 November 1958</Born>
@@ -1772,7 +1761,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>162</Rank>
+    <Rank>161</Rank>
     <Name>Wilton Daniel Gregory</Name>
     <Country>United States</Country>
     <Born>7 December 1947</Born>
@@ -1783,7 +1772,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>163</Rank>
+    <Rank>162</Rank>
     <Name>Jose Advincula OP</Name>
     <Country>Philippines</Country>
     <Born>30 March 1952</Born>
@@ -1794,7 +1783,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>164</Rank>
+    <Rank>163</Rank>
     <Name>Celestino Aós Braco OFMCap</Name>
     <Country>Chile[m]</Country>
     <Born>6 April 1945</Born>
@@ -1805,7 +1794,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>165</Rank>
+    <Rank>164</Rank>
     <Name>Augusto Paolo Lojudice</Name>
     <Country>Italy</Country>
     <Born>1 July 1964</Born>
@@ -1816,7 +1805,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>166</Rank>
+    <Rank>165</Rank>
     <Name>Felipe Arizmendi Esquivel</Name>
     <Country>Mexico</Country>
     <Born>1 May 1940</Born>
@@ -1827,7 +1816,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>167</Rank>
+    <Rank>166</Rank>
     <Name>Jean-Marc Aveline</Name>
     <Country>France</Country>
     <Born>26 December 1958</Born>
@@ -1838,7 +1827,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>168</Rank>
+    <Rank>167</Rank>
     <Name>Peter Okpaleke</Name>
     <Country>Nigeria</Country>
     <Born>1 March 1963</Born>
@@ -1849,7 +1838,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>169</Rank>
+    <Rank>168</Rank>
     <Name>Leonardo Ulrich Steiner OFM</Name>
     <Country>Brazil</Country>
     <Born>6 November 1950</Born>
@@ -1860,7 +1849,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>170</Rank>
+    <Rank>169</Rank>
     <Name>Filipe Neri Ferrão</Name>
     <Country>India</Country>
     <Born>20 January 1953</Born>
@@ -1871,7 +1860,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>171</Rank>
+    <Rank>170</Rank>
     <Name>Robert W. McElroy</Name>
     <Country>United States</Country>
     <Born>5 February 1954</Born>
@@ -1882,7 +1871,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>172</Rank>
+    <Rank>171</Rank>
     <Name>Virgílio do Carmo da Silva SDB</Name>
     <Country>East Timor</Country>
     <Born>27 November 1967</Born>
@@ -1893,7 +1882,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>173</Rank>
+    <Rank>172</Rank>
     <Name>Oscar Cantoni</Name>
     <Country>Italy</Country>
     <Born>1 September 1950</Born>
@@ -1904,7 +1893,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>174</Rank>
+    <Rank>173</Rank>
     <Name>Anthony Poola</Name>
     <Country>India</Country>
     <Born>15 November 1961</Born>
@@ -1915,7 +1904,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>175</Rank>
+    <Rank>174</Rank>
     <Name>Paulo Cezar Costa</Name>
     <Country>Brazil</Country>
     <Born>20 July 1967</Born>
@@ -1926,7 +1915,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>176</Rank>
+    <Rank>175</Rank>
     <Name>William Goh</Name>
     <Country>Singapore</Country>
     <Born>25 June 1957</Born>
@@ -1937,7 +1926,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>177</Rank>
+    <Rank>176</Rank>
     <Name>Adalberto Martínez Flores</Name>
     <Country>Paraguay</Country>
     <Born>8 July 1951</Born>
@@ -1948,7 +1937,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>178</Rank>
+    <Rank>177</Rank>
     <Name>Giorgio Marengo IMC</Name>
     <Country>Mongolia[n]</Country>
     <Born>7 June 1974</Born>
@@ -1959,7 +1948,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>179</Rank>
+    <Rank>178</Rank>
     <Name>Jorge Enrique Jiménez Carvajal CJM</Name>
     <Country>Colombia</Country>
     <Born>29 March 1942</Born>
@@ -1970,7 +1959,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>180</Rank>
+    <Rank>179</Rank>
     <Name>Arrigo Miglio</Name>
     <Country>Italy</Country>
     <Born>18 July 1942</Born>
@@ -1981,7 +1970,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>181</Rank>
+    <Rank>180</Rank>
     <Name>Pierbattista Pizzaballa OFM</Name>
     <Country>Jerusalem[o]</Country>
     <Born>21 April 1965</Born>
@@ -1992,7 +1981,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>182</Rank>
+    <Rank>181</Rank>
     <Name>Stephen Brislin</Name>
     <Country>South Africa</Country>
     <Born>24 September 1956</Born>
@@ -2003,7 +1992,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>183</Rank>
+    <Rank>182</Rank>
     <Name>Ángel Sixto Rossi SJ</Name>
     <Country>Argentina</Country>
     <Born>11 August 1958</Born>
@@ -2014,7 +2003,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>184</Rank>
+    <Rank>183</Rank>
     <Name>Luis José Rueda Aparicio</Name>
     <Country>Colombia</Country>
     <Born>3 March 1962</Born>
@@ -2025,7 +2014,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>185</Rank>
+    <Rank>184</Rank>
     <Name>Grzegorz Ryś</Name>
     <Country>Poland</Country>
     <Born>9 February 1964</Born>
@@ -2036,7 +2025,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>186</Rank>
+    <Rank>185</Rank>
     <Name>Stephen Ameyu Martin Mulla</Name>
     <Country>South Sudan</Country>
     <Born>10 January 1964</Born>
@@ -2047,7 +2036,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>187</Rank>
+    <Rank>186</Rank>
     <Name>José Cobo Cano</Name>
     <Country>Spain</Country>
     <Born>20 September 1965</Born>
@@ -2058,7 +2047,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>188</Rank>
+    <Rank>187</Rank>
     <Name>Protase Rugambwa</Name>
     <Country>Tanzania</Country>
     <Born>31 May 1960</Born>
@@ -2069,7 +2058,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>189</Rank>
+    <Rank>188</Rank>
     <Name>Sebastian Francis</Name>
     <Country>Malaysia</Country>
     <Born>11 November 1951</Born>
@@ -2080,7 +2069,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>190</Rank>
+    <Rank>189</Rank>
     <Name>Stephen Chow Sau-yan SJ</Name>
     <Country>China(Hong Kong)[f]</Country>
     <Born>7 August 1959</Born>
@@ -2091,7 +2080,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>191</Rank>
+    <Rank>190</Rank>
     <Name>François-Xavier Bustillo OFMConv</Name>
     <Country>France[p]</Country>
     <Born>23 November 1968</Born>
@@ -2102,7 +2091,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>192</Rank>
+    <Rank>191</Rank>
     <Name>Américo Aguiar</Name>
     <Country>Portugal</Country>
     <Born>12 December 1973</Born>
@@ -2113,7 +2102,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>193</Rank>
+    <Rank>192</Rank>
     <Name>Diego Rafael Padrón Sánchez</Name>
     <Country>Venezuela</Country>
     <Born>17 May 1939</Born>
@@ -2124,7 +2113,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>194</Rank>
+    <Rank>193</Rank>
     <Name>Carlos Castillo Mattasoglio</Name>
     <Country>Peru</Country>
     <Born>28 February 1950</Born>
@@ -2135,7 +2124,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>195</Rank>
+    <Rank>194</Rank>
     <Name>Vicente Bokalic Iglic CM</Name>
     <Country>Argentina</Country>
     <Born>11 June 1952</Born>
@@ -2146,7 +2135,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>196</Rank>
+    <Rank>195</Rank>
     <Name>Luis Cabrera Herrera OFM</Name>
     <Country>Ecuador</Country>
     <Born>11 October 1955</Born>
@@ -2157,7 +2146,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>197</Rank>
+    <Rank>196</Rank>
     <Name>Fernando Chomalí Garib</Name>
     <Country>Chile</Country>
     <Born>10 March 1957</Born>
@@ -2168,7 +2157,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>198</Rank>
+    <Rank>197</Rank>
     <Name>Tarcisio Isao Kikuchi SVD</Name>
     <Country>Japan</Country>
     <Born>1 November 1958</Born>
@@ -2179,7 +2168,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>199</Rank>
+    <Rank>198</Rank>
     <Name>Pablo Virgilio David</Name>
     <Country>Philippines</Country>
     <Born>2 March 1959</Born>
@@ -2190,7 +2179,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>200</Rank>
+    <Rank>199</Rank>
     <Name>Ladislav Nemet SVD</Name>
     <Country>Serbia[q]</Country>
     <Born>7 September 1956</Born>
@@ -2201,7 +2190,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>201</Rank>
+    <Rank>200</Rank>
     <Name>Jaime Spengler OFM</Name>
     <Country>Brazil</Country>
     <Born>6 September 1960</Born>
@@ -2212,7 +2201,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>202</Rank>
+    <Rank>201</Rank>
     <Name>Ignace Bessi Dogbo</Name>
     <Country>Ivory Coast</Country>
     <Born>17 August 1961</Born>
@@ -2223,7 +2212,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>203</Rank>
+    <Rank>202</Rank>
     <Name>Jean-Paul Vesco OP</Name>
     <Country>Algeria[r]</Country>
     <Born>10 March 1962</Born>
@@ -2234,7 +2223,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>204</Rank>
+    <Rank>203</Rank>
     <Name>Dominique Mathieu OFMConv</Name>
     <Country>Iran[s]</Country>
     <Born>13 June 1963</Born>
@@ -2245,7 +2234,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>205</Rank>
+    <Rank>204</Rank>
     <Name>Roberto Repole</Name>
     <Country>Italy</Country>
     <Born>29 January 1967</Born>
@@ -2256,7 +2245,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>206</Rank>
+    <Rank>205</Rank>
     <Name>Baldassare Reina</Name>
     <Country>Italy</Country>
     <Born>26 November 1970</Born>
@@ -2267,7 +2256,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>207</Rank>
+    <Rank>206</Rank>
     <Name>Frank Leo</Name>
     <Country>Canada</Country>
     <Born>30 June 1971</Born>
@@ -2278,7 +2267,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>208</Rank>
+    <Rank>207</Rank>
     <Name>Mykola Bychok CSsR</Name>
     <Country>Australia[t]</Country>
     <Born>13 February 1980</Born>
@@ -2289,7 +2278,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>209</Rank>
+    <Rank>208</Rank>
     <Name>Domenico Battaglia</Name>
     <Country>Italy</Country>
     <Born>20 January 1963</Born>
@@ -2300,7 +2289,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>210</Rank>
+    <Rank>209</Rank>
     <Name>Dominique Mamberti</Name>
     <Country>France</Country>
     <Born>7 March 1952</Born>
@@ -2311,7 +2300,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>211</Rank>
+    <Rank>210</Rank>
     <Name>Mario Zenari</Name>
     <Country>Italy</Country>
     <Born>5 January 1946</Born>
@@ -2322,7 +2311,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>212</Rank>
+    <Rank>211</Rank>
     <Name>Kevin Farrell</Name>
     <Country>United States[u]</Country>
     <Born>2 September 1947</Born>
@@ -2333,7 +2322,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>213</Rank>
+    <Rank>212</Rank>
     <Name>Ernest Simoni</Name>
     <Country>Albania</Country>
     <Born>18 October 1928</Born>
@@ -2344,7 +2333,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>214</Rank>
+    <Rank>213</Rank>
     <Name>Luis Ladaria Ferrer SJ</Name>
     <Country>Spain</Country>
     <Born>19 April 1944</Born>
@@ -2355,7 +2344,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>215</Rank>
+    <Rank>214</Rank>
     <Name>Giovanni Angelo Becciu[w]</Name>
     <Country>Italy</Country>
     <Born>2 June 1948</Born>
@@ -2366,7 +2355,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>216</Rank>
+    <Rank>215</Rank>
     <Name>Konrad Krajewski</Name>
     <Country>Poland</Country>
     <Born>25 November 1963</Born>
@@ -2377,7 +2366,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>217</Rank>
+    <Rank>216</Rank>
     <Name>Aquilino Bocos Merino CMF</Name>
     <Country>Spain</Country>
     <Born>17 May 1938</Born>
@@ -2388,7 +2377,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>218</Rank>
+    <Rank>217</Rank>
     <Name>José Tolentino de Mendonça</Name>
     <Country>Portugal</Country>
     <Born>15 December 1965</Born>
@@ -2399,7 +2388,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>219</Rank>
+    <Rank>218</Rank>
     <Name>Michael Czerny SJ</Name>
     <Country>Canada[x]</Country>
     <Born>18 July 1946</Born>
@@ -2410,7 +2399,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>220</Rank>
+    <Rank>219</Rank>
     <Name>Michael Fitzgerald MAfr</Name>
     <Country>United Kingdom</Country>
     <Born>17 August 1937</Born>
@@ -2421,7 +2410,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>221</Rank>
+    <Rank>220</Rank>
     <Name>Mario Grech</Name>
     <Country>Malta</Country>
     <Born>20 February 1957</Born>
@@ -2432,7 +2421,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>222</Rank>
+    <Rank>221</Rank>
     <Name>Marcello Semeraro</Name>
     <Country>Italy</Country>
     <Born>22 December 1947</Born>
@@ -2443,7 +2432,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>223</Rank>
+    <Rank>222</Rank>
     <Name>Mauro Gambetti OFMConv</Name>
     <Country>Italy</Country>
     <Born>27 October 1965</Born>
@@ -2454,7 +2443,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>224</Rank>
+    <Rank>223</Rank>
     <Name>Silvano Maria Tomasi CS</Name>
     <Country>Italy</Country>
     <Born>12 October 1940</Born>
@@ -2465,7 +2454,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>225</Rank>
+    <Rank>224</Rank>
     <Name>Raniero Cantalamessa OFMCap</Name>
     <Country>Italy</Country>
     <Born>22 July 1934</Born>
@@ -2476,7 +2465,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>226</Rank>
+    <Rank>225</Rank>
     <Name>Enrico Feroci</Name>
     <Country>Italy</Country>
     <Born>27 August 1940</Born>
@@ -2487,7 +2476,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>227</Rank>
+    <Rank>226</Rank>
     <Name>Arthur Roche</Name>
     <Country>United Kingdom</Country>
     <Born>6 March 1950</Born>
@@ -2498,7 +2487,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>228</Rank>
+    <Rank>227</Rank>
     <Name>Lazarus You Heung-sik</Name>
     <Country>South Korea</Country>
     <Born>17 November 1951</Born>
@@ -2509,7 +2498,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>229</Rank>
+    <Rank>228</Rank>
     <Name>Fernando Vérgez Alzaga LC</Name>
     <Country>Spain</Country>
     <Born>1 March 1945</Born>
@@ -2520,7 +2509,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>230</Rank>
+    <Rank>229</Rank>
     <Name>Gianfranco Ghirlanda SJ</Name>
     <Country>Italy</Country>
     <Born>5 July 1942</Born>
@@ -2531,7 +2520,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>231</Rank>
+    <Rank>230</Rank>
     <Name>Fortunato Frezza</Name>
     <Country>Italy</Country>
     <Born>6 February 1942</Born>
@@ -2542,7 +2531,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>232</Rank>
+    <Rank>231</Rank>
     <Name>Claudio Gugerotti</Name>
     <Country>Italy</Country>
     <Born>7 October 1955</Born>
@@ -2553,7 +2542,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>233</Rank>
+    <Rank>232</Rank>
     <Name>Víctor Manuel Fernández</Name>
     <Country>Argentina</Country>
     <Born>18 July 1962</Born>
@@ -2564,7 +2553,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>234</Rank>
+    <Rank>233</Rank>
     <Name>Christophe Pierre</Name>
     <Country>France</Country>
     <Born>30 January 1946</Born>
@@ -2575,7 +2564,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>235</Rank>
+    <Rank>234</Rank>
     <Name>Ángel Fernández Artime SDB</Name>
     <Country>Spain</Country>
     <Born>21 August 1960</Born>
@@ -2586,7 +2575,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>236</Rank>
+    <Rank>235</Rank>
     <Name>Agostino Marchetto</Name>
     <Country>Italy</Country>
     <Born>28 August 1940</Born>
@@ -2597,7 +2586,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>237</Rank>
+    <Rank>236</Rank>
     <Name>Angelo Acerbi</Name>
     <Country>Italy</Country>
     <Born>23 September 1925</Born>
@@ -2608,7 +2597,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>238</Rank>
+    <Rank>237</Rank>
     <Name>Rolandas Makrickas</Name>
     <Country>Lithuania</Country>
     <Born>31 January 1972</Born>
@@ -2619,7 +2608,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>239</Rank>
+    <Rank>238</Rank>
     <Name>Timothy Radcliffe OP</Name>
     <Country>United Kingdom</Country>
     <Born>22 August 1945</Born>
@@ -2630,7 +2619,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>240</Rank>
+    <Rank>239</Rank>
     <Name>Fabio Baggio CS</Name>
     <Country>Italy</Country>
     <Born>15 January 1965</Born>
@@ -2641,7 +2630,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>241</Rank>
+    <Rank>240</Rank>
     <Name>George Koovakad</Name>
     <Country>India</Country>
     <Born>11 August 1973</Born>

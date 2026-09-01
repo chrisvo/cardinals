@@ -63,10 +63,10 @@ An example of an JSON object:
 
 <!-- CARDINAL_LIST_START -->
 ## Complete List of Cardinals
-Total: **241 cardinals**
+Total: **240 cardinals**
 
 - **Eligible to vote in Papal Conclave**: 117
-- **Ineligible to vote** (over 80 years old): 124
+- **Ineligible to vote** (over 80 years old): 123
 
 | Rank | Name | Country | Born | Office |
 |------|------|---------|------|--------|
@@ -197,120 +197,119 @@ Total: **241 cardinals**
 | 125 | Arlindo Gomes Furtado | Cape Verde | 15 November 1949 | Bishop emeritus of Santiago de Cabo Verde |
 | 126 | Soane Patita Paini Mafi | Tonga | 19 December 1961 | Bishop of Tonga |
 | 127 | Luis Héctor Villalba* | Argentina | 11 October 1934 | Archbishop emeritus of Tucumán |
-| 128 | Júlio Duarte Langa* | Mozambique | 27 October 1927 | Bishop emeritus of Xai-Xai |
-| 129 | Dieudonné Nzapalainga CSSp | Central African Republic | 14 March 1967 | Archbishop of Bangui |
-| 130 | Carlos Osoro Sierra* | Spain | 16 May 1945 | Archbishop emeritus of Madrid |
-| 131 | Sérgio da Rocha | Brazil | 21 October 1959 | Archbishop of São Salvador da Bahia |
-| 132 | Blase J. Cupich | United States | 19 March 1949 | Archbishop of Chicago |
-| 133 | Patrick D'Rozario CSC* | Bangladesh | 1 October 1943 | Archbishop emeritus of Dhaka |
-| 134 | Baltazar Enrique Porras Cardozo* | Venezuela | 10 October 1944 | Archbishop emeritus of Caracas |
-| 135 | Jozef De Kesel | Belgium | 17 June 1947 | Archbishop emeritus of Mechelen–Brussels |
-| 136 | Maurice Piat CSSp* | Mauritius | 19 July 1941 | Bishop emeritus of Port-Louis |
-| 137 | Carlos Aguiar Retes | Mexico | 9 January 1950 | Archbishop of Mexico |
-| 138 | John Ribat MSC | Papua New Guinea | 9 February 1957 | Archbishop of Port Moresby |
-| 139 | Joseph W. Tobin CSsR | United States | 3 May 1952 | Archbishop of Newark |
-| 140 | Jean Zerbo* | Mali | 27 December 1943 | Archbishop emeritus of Bamako |
-| 141 | Juan José Omella* | Spain | 21 April 1946 | Archbishop of Barcelona |
-| 142 | Anders Arborelius OCD | Sweden | 24 September 1949 | Bishop of Stockholm |
-| 143 | Louis-Marie Ling Mangkhanekhoun IVD* | Laos | 8 April 1944 | Apostolic Vicar emeritus of Vientiane |
-| 144 | Gregorio Rosa Chávez* | El Salvador | 3 September 1942 | Auxiliary Bishop emeritus of San Salvador |
-| 145 | Angelo De Donatis | Italy | 4 January 1954 | Major Penitentiary |
-| 146 | Joseph Coutts* | Pakistan | 21 July 1945 | Archbishop emeritus of Karachi |
-| 147 | António Marto | Portugal | 5 May 1947 | Bishop emeritus of Leiria–Fátima |
-| 148 | Pedro Barreto SJ* | Peru | 12 February 1944 | Archbishop emeritus of Huancayo |
-| 149 | Désiré Tsarahazana | Madagascar | 13 June 1954 | Archbishop of Toamasina |
-| 150 | Giuseppe Petrocchi | Italy | 19 August 1948 | Archbishop emeritus of L'Aquila |
-| 151 | Thomas Aquino Manyo Maeda | Japan | 3 March 1949 | Archbishop of Osaka–Takamatsu |
-| 152 | Toribio Ticona Porco* | Bolivia | 25 April 1937 | Bishop Prelate emeritus of Corocoro |
-| 153 | Ignatius Suharyo Hardjoatmodjo | Indonesia | 9 July 1950 | Archbishop of Jakarta |
-| 154 | Juan García Rodríguez | Cuba | 11 July 1948 | Archbishop of San Cristóbal de la Habana |
-| 155 | Fridolin Ambongo Besungu OFMCap | Democratic Republic of the Congo | 24 January 1960 | Archbishop of Kinshasa |
-| 156 | Jean-Claude Hollerich SJ | Luxembourg | 9 August 1958 | Archbishop of Luxembourg |
-| 157 | Álvaro Leonel Ramazzini Imeri | Guatemala | 16 July 1947 | Bishop of Huehuetenango |
-| 158 | Matteo Zuppi | Italy | 11 October 1955 | Archbishop of Bologna |
-| 159 | Cristóbal López Romero SDB | Morocco[l] | 19 May 1952 | Archbishop of Rabat |
-| 160 | Sigitas Tamkevičius SJ* | Lithuania | 7 November 1938 | Archbishop emeritus of Kaunas |
-| 161 | Antoine Kambanda | Rwanda | 10 November 1958 | Archbishop of Kigali |
-| 162 | Wilton Daniel Gregory | United States | 7 December 1947 | Archbishop emeritus of Washington |
-| 163 | Jose Advincula OP | Philippines | 30 March 1952 | Archbishop of Manila |
-| 164 | Celestino Aós Braco OFMCap* | Chile[m] | 6 April 1945 | Archbishop emeritus of Santiago de Chile |
-| 165 | Augusto Paolo Lojudice | Italy | 1 July 1964 | Archbishop of Siena–Colle di Val d'Elsa–Montalcino and Bishop of Montepulciano–C |
-| 166 | Felipe Arizmendi Esquivel* | Mexico | 1 May 1940 | Bishop emeritus of San Cristóbal de Las Casas |
-| 167 | Jean-Marc Aveline | France | 26 December 1958 | Archbishop of Marseille |
-| 168 | Peter Okpaleke | Nigeria | 1 March 1963 | Bishop of Ekwulobia |
-| 169 | Leonardo Ulrich Steiner OFM | Brazil | 6 November 1950 | Archbishop of Manaus |
-| 170 | Filipe Neri Ferrão | India | 20 January 1953 | Archbishop of Goa and Daman and Patriarch of the East Indies |
-| 171 | Robert W. McElroy | United States | 5 February 1954 | Archbishop of Washington |
-| 172 | Virgílio do Carmo da Silva SDB | East Timor | 27 November 1967 | Archbishop of Díli |
-| 173 | Oscar Cantoni | Italy | 1 September 1950 | Bishop of Como |
-| 174 | Anthony Poola | India | 15 November 1961 | Archbishop of Hyderabad |
-| 175 | Paulo Cezar Costa | Brazil | 20 July 1967 | Archbishop of Brasília |
-| 176 | William Goh | Singapore | 25 June 1957 | Archbishop of Singapore |
-| 177 | Adalberto Martínez Flores | Paraguay | 8 July 1951 | Archbishop of Asunción |
-| 178 | Giorgio Marengo IMC | Mongolia[n] | 7 June 1974 | Apostolic Prefect of Ulaanbaatar |
-| 179 | Jorge Enrique Jiménez Carvajal CJM* | Colombia | 29 March 1942 | Archbishop emeritus of Cartagena |
-| 180 | Arrigo Miglio* | Italy | 18 July 1942 | Archbishop emeritus of Cagliari |
-| 181 | Pierbattista Pizzaballa OFM | Jerusalem[o] | 21 April 1965 | Latin Patriarch of Jerusalem |
-| 182 | Stephen Brislin | South Africa | 24 September 1956 | Archbishop of Johannesburg |
-| 183 | Ángel Sixto Rossi SJ | Argentina | 11 August 1958 | Archbishop of Córdoba |
-| 184 | Luis José Rueda Aparicio | Colombia | 3 March 1962 | Archbishop of Bogotá |
-| 185 | Grzegorz Ryś | Poland | 9 February 1964 | Archbishop of Kraków |
-| 186 | Stephen Ameyu Martin Mulla | South Sudan | 10 January 1964 | Archbishop of Juba |
-| 187 | José Cobo Cano | Spain | 20 September 1965 | Archbishop of Madrid |
-| 188 | Protase Rugambwa | Tanzania | 31 May 1960 | Archbishop of Tabora |
-| 189 | Sebastian Francis | Malaysia | 11 November 1951 | Bishop of Penang |
-| 190 | Stephen Chow Sau-yan SJ | China(Hong Kong)[f] | 7 August 1959 | Bishop of Hong Kong |
-| 191 | François-Xavier Bustillo OFMConv | France[p] | 23 November 1968 | Bishop of Ajaccio |
-| 192 | Américo Aguiar | Portugal | 12 December 1973 | Bishop of Setúbal |
-| 193 | Diego Rafael Padrón Sánchez* | Venezuela | 17 May 1939 | Archbishop emeritus of Cumaná |
-| 194 | Carlos Castillo Mattasoglio | Peru | 28 February 1950 | Archbishop of Lima |
-| 195 | Vicente Bokalic Iglic CM | Argentina | 11 June 1952 | Archbishop of Santiago del Estero |
-| 196 | Luis Cabrera Herrera OFM | Ecuador | 11 October 1955 | Archbishop of Guayaquil |
-| 197 | Fernando Chomalí Garib | Chile | 10 March 1957 | Archbishop of Santiago de Chile |
-| 198 | Tarcisio Isao Kikuchi SVD | Japan | 1 November 1958 | Archbishop of Tokyo |
-| 199 | Pablo Virgilio David | Philippines | 2 March 1959 | Bishop of Kalookan |
-| 200 | Ladislav Nemet SVD | Serbia[q] | 7 September 1956 | Archbishop of Belgrade |
-| 201 | Jaime Spengler OFM | Brazil | 6 September 1960 | Archbishop of Porto Alegre |
-| 202 | Ignace Bessi Dogbo | Ivory Coast | 17 August 1961 | Archbishop of Abidjan |
-| 203 | Jean-Paul Vesco OP | Algeria[r] | 10 March 1962 | Archbishop of Algiers |
-| 204 | Dominique Mathieu OFMConv | Iran[s] | 13 June 1963 | Archbishop of Tehran–Isfahan |
-| 205 | Roberto Repole | Italy | 29 January 1967 | Archbishop of Turin and Bishop of Susa |
-| 206 | Baldassare Reina | Italy | 26 November 1970 | Vicar General for Rome and Archpriest of the Papal Basilica of Saint John Latera |
-| 207 | Frank Leo | Canada | 30 June 1971 | Archbishop of Toronto |
-| 208 | Mykola Bychok CSsR | Australia[t] | 13 February 1980 | Eparch of Saints Peter and Paul of Melbourne(Ukrainian Greek Church) |
-| 209 | Domenico Battaglia | Italy | 20 January 1963 | Archbishop of Naples |
-| 210 | Dominique Mamberti | France | 7 March 1952 | Prefect of the Supreme Tribunal of the Apostolic Signatura |
-| 211 | Mario Zenari* | Italy | 5 January 1946 | Apostolic Nuncio emeritus |
-| 212 | Kevin Farrell | United States[u] | 2 September 1947 | Prefect of the Dicastery for the Laity, Family and Life |
-| 213 | Ernest Simoni* | Albania | 18 October 1928 | Priest of the Archdiocese of Shkodër–Pult |
-| 214 | Luis Ladaria Ferrer SJ* | Spain | 19 April 1944 | Prefect emeritus of the Dicastery for the Doctrine of the Faith |
-| 215 | Giovanni Angelo Becciu[w]* | Italy | 2 June 1948 | Prefect emeritus of the Congregation for the Causes of Saints |
-| 216 | Konrad Krajewski | Poland | 25 November 1963 | Archbishop of Łódź |
-| 217 | Aquilino Bocos Merino CMF* | Spain | 17 May 1938 | Superior General emeritus of the Missionary Sons of the Immaculate Heart of Mary |
-| 218 | José Tolentino de Mendonça | Portugal | 15 December 1965 | Prefect of the Dicastery for Culture and Education |
-| 219 | Michael Czerny SJ | Canada[x] | 18 July 1946 | Prefect of the Dicastery for Promoting Integral Human Development |
-| 220 | Michael Fitzgerald MAfr* | United Kingdom | 17 August 1937 | Apostolic Nuncio emeritus |
-| 221 | Mario Grech | Malta | 20 February 1957 | Secretary-General of the Synod of Bishops |
-| 222 | Marcello Semeraro | Italy | 22 December 1947 | Prefect of the Dicastery for the Causes of Saints |
-| 223 | Mauro Gambetti OFMConv | Italy | 27 October 1965 | Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter  |
-| 224 | Silvano Maria Tomasi CS* | Italy | 12 October 1940 | Special Delegate to the Sovereign Military Order of Malta |
-| 225 | Raniero Cantalamessa OFMCap* | Italy | 22 July 1934 | Preacher emeritus of the Papal Household |
-| 226 | Enrico Feroci* | Italy | 27 August 1940 | Pastor of the Shrine of Our Lady of Divine Love in Castel di Leva, Rome |
-| 227 | Arthur Roche | United Kingdom | 6 March 1950 | Prefect of the Dicastery for Divine Worship and the Discipline of the Sacraments |
-| 228 | Lazarus You Heung-sik | South Korea | 17 November 1951 | Prefect of the Dicastery for the Clergy |
-| 229 | Fernando Vérgez Alzaga LC* | Spain | 1 March 1945 | President emeritus of the Pontifical Commission for Vatican City State |
-| 230 | Gianfranco Ghirlanda SJ* | Italy | 5 July 1942 | Patron of the Sovereign Military Order of Malta |
-| 231 | Fortunato Frezza* | Italy | 6 February 1942 | Canon of the Chapter of the Papal Basilica of Saint Peter |
-| 232 | Claudio Gugerotti | Italy | 7 October 1955 | Prefect of the Dicastery for the Eastern Churches |
-| 233 | Víctor Manuel Fernández | Argentina | 18 July 1962 | Prefect of the Dicastery for the Doctrine of the Faith |
-| 234 | Christophe Pierre* | France | 30 January 1946 | Apostolic Nuncio emeritus |
-| 235 | Ángel Fernández Artime SDB | Spain | 21 August 1960 | Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of |
-| 236 | Agostino Marchetto* | Italy | 28 August 1940 | Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants a |
-| 237 | Angelo Acerbi* | Italy | 23 September 1925 | Apostolic Nuncio emeritus |
-| 238 | Rolandas Makrickas | Lithuania | 31 January 1972 | Archpriest of the Papal Basilica of Saint Mary Major |
-| 239 | Timothy Radcliffe OP* | United Kingdom | 22 August 1945 | Master emeritus of the Order of Preachers |
-| 240 | Fabio Baggio CS | Italy | 15 January 1965 | Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoti |
-| 241 | George Koovakad | India | 11 August 1973 | Prefect of the Dicastery for Interreligious Dialogue |
+| 128 | Dieudonné Nzapalainga CSSp | Central African Republic | 14 March 1967 | Archbishop of Bangui |
+| 129 | Carlos Osoro Sierra* | Spain | 16 May 1945 | Archbishop emeritus of Madrid |
+| 130 | Sérgio da Rocha | Brazil | 21 October 1959 | Archbishop of São Salvador da Bahia |
+| 131 | Blase J. Cupich | United States | 19 March 1949 | Archbishop of Chicago |
+| 132 | Patrick D'Rozario CSC* | Bangladesh | 1 October 1943 | Archbishop emeritus of Dhaka |
+| 133 | Baltazar Enrique Porras Cardozo* | Venezuela | 10 October 1944 | Archbishop emeritus of Caracas |
+| 134 | Jozef De Kesel | Belgium | 17 June 1947 | Archbishop emeritus of Mechelen–Brussels |
+| 135 | Maurice Piat CSSp* | Mauritius | 19 July 1941 | Bishop emeritus of Port-Louis |
+| 136 | Carlos Aguiar Retes | Mexico | 9 January 1950 | Archbishop of Mexico |
+| 137 | John Ribat MSC | Papua New Guinea | 9 February 1957 | Archbishop of Port Moresby |
+| 138 | Joseph W. Tobin CSsR | United States | 3 May 1952 | Archbishop of Newark |
+| 139 | Jean Zerbo* | Mali | 27 December 1943 | Archbishop emeritus of Bamako |
+| 140 | Juan José Omella* | Spain | 21 April 1946 | Archbishop of Barcelona |
+| 141 | Anders Arborelius OCD | Sweden | 24 September 1949 | Bishop of Stockholm |
+| 142 | Louis-Marie Ling Mangkhanekhoun IVD* | Laos | 8 April 1944 | Apostolic Vicar emeritus of Vientiane |
+| 143 | Gregorio Rosa Chávez* | El Salvador | 3 September 1942 | Auxiliary Bishop emeritus of San Salvador |
+| 144 | Angelo De Donatis | Italy | 4 January 1954 | Major Penitentiary |
+| 145 | Joseph Coutts* | Pakistan | 21 July 1945 | Archbishop emeritus of Karachi |
+| 146 | António Marto | Portugal | 5 May 1947 | Bishop emeritus of Leiria–Fátima |
+| 147 | Pedro Barreto SJ* | Peru | 12 February 1944 | Archbishop emeritus of Huancayo |
+| 148 | Désiré Tsarahazana | Madagascar | 13 June 1954 | Archbishop of Toamasina |
+| 149 | Giuseppe Petrocchi | Italy | 19 August 1948 | Archbishop emeritus of L'Aquila |
+| 150 | Thomas Aquino Manyo Maeda | Japan | 3 March 1949 | Archbishop of Osaka–Takamatsu |
+| 151 | Toribio Ticona Porco* | Bolivia | 25 April 1937 | Bishop Prelate emeritus of Corocoro |
+| 152 | Ignatius Suharyo Hardjoatmodjo | Indonesia | 9 July 1950 | Archbishop of Jakarta |
+| 153 | Juan García Rodríguez | Cuba | 11 July 1948 | Archbishop of San Cristóbal de la Habana |
+| 154 | Fridolin Ambongo Besungu OFMCap | Democratic Republic of the Congo | 24 January 1960 | Archbishop of Kinshasa |
+| 155 | Jean-Claude Hollerich SJ | Luxembourg | 9 August 1958 | Archbishop of Luxembourg |
+| 156 | Álvaro Leonel Ramazzini Imeri | Guatemala | 16 July 1947 | Bishop of Huehuetenango |
+| 157 | Matteo Zuppi | Italy | 11 October 1955 | Archbishop of Bologna |
+| 158 | Cristóbal López Romero SDB | Morocco[l] | 19 May 1952 | Archbishop of Rabat |
+| 159 | Sigitas Tamkevičius SJ* | Lithuania | 7 November 1938 | Archbishop emeritus of Kaunas |
+| 160 | Antoine Kambanda | Rwanda | 10 November 1958 | Archbishop of Kigali |
+| 161 | Wilton Daniel Gregory | United States | 7 December 1947 | Archbishop emeritus of Washington |
+| 162 | Jose Advincula OP | Philippines | 30 March 1952 | Archbishop of Manila |
+| 163 | Celestino Aós Braco OFMCap* | Chile[m] | 6 April 1945 | Archbishop emeritus of Santiago de Chile |
+| 164 | Augusto Paolo Lojudice | Italy | 1 July 1964 | Archbishop of Siena–Colle di Val d'Elsa–Montalcino and Bishop of Montepulciano–C |
+| 165 | Felipe Arizmendi Esquivel* | Mexico | 1 May 1940 | Bishop emeritus of San Cristóbal de Las Casas |
+| 166 | Jean-Marc Aveline | France | 26 December 1958 | Archbishop of Marseille |
+| 167 | Peter Okpaleke | Nigeria | 1 March 1963 | Bishop of Ekwulobia |
+| 168 | Leonardo Ulrich Steiner OFM | Brazil | 6 November 1950 | Archbishop of Manaus |
+| 169 | Filipe Neri Ferrão | India | 20 January 1953 | Archbishop of Goa and Daman and Patriarch of the East Indies |
+| 170 | Robert W. McElroy | United States | 5 February 1954 | Archbishop of Washington |
+| 171 | Virgílio do Carmo da Silva SDB | East Timor | 27 November 1967 | Archbishop of Díli |
+| 172 | Oscar Cantoni | Italy | 1 September 1950 | Bishop of Como |
+| 173 | Anthony Poola | India | 15 November 1961 | Archbishop of Hyderabad |
+| 174 | Paulo Cezar Costa | Brazil | 20 July 1967 | Archbishop of Brasília |
+| 175 | William Goh | Singapore | 25 June 1957 | Archbishop of Singapore |
+| 176 | Adalberto Martínez Flores | Paraguay | 8 July 1951 | Archbishop of Asunción |
+| 177 | Giorgio Marengo IMC | Mongolia[n] | 7 June 1974 | Apostolic Prefect of Ulaanbaatar |
+| 178 | Jorge Enrique Jiménez Carvajal CJM* | Colombia | 29 March 1942 | Archbishop emeritus of Cartagena |
+| 179 | Arrigo Miglio* | Italy | 18 July 1942 | Archbishop emeritus of Cagliari |
+| 180 | Pierbattista Pizzaballa OFM | Jerusalem[o] | 21 April 1965 | Latin Patriarch of Jerusalem |
+| 181 | Stephen Brislin | South Africa | 24 September 1956 | Archbishop of Johannesburg |
+| 182 | Ángel Sixto Rossi SJ | Argentina | 11 August 1958 | Archbishop of Córdoba |
+| 183 | Luis José Rueda Aparicio | Colombia | 3 March 1962 | Archbishop of Bogotá |
+| 184 | Grzegorz Ryś | Poland | 9 February 1964 | Archbishop of Kraków |
+| 185 | Stephen Ameyu Martin Mulla | South Sudan | 10 January 1964 | Archbishop of Juba |
+| 186 | José Cobo Cano | Spain | 20 September 1965 | Archbishop of Madrid |
+| 187 | Protase Rugambwa | Tanzania | 31 May 1960 | Archbishop of Tabora |
+| 188 | Sebastian Francis | Malaysia | 11 November 1951 | Bishop of Penang |
+| 189 | Stephen Chow Sau-yan SJ | China(Hong Kong)[f] | 7 August 1959 | Bishop of Hong Kong |
+| 190 | François-Xavier Bustillo OFMConv | France[p] | 23 November 1968 | Bishop of Ajaccio |
+| 191 | Américo Aguiar | Portugal | 12 December 1973 | Bishop of Setúbal |
+| 192 | Diego Rafael Padrón Sánchez* | Venezuela | 17 May 1939 | Archbishop emeritus of Cumaná |
+| 193 | Carlos Castillo Mattasoglio | Peru | 28 February 1950 | Archbishop of Lima |
+| 194 | Vicente Bokalic Iglic CM | Argentina | 11 June 1952 | Archbishop of Santiago del Estero |
+| 195 | Luis Cabrera Herrera OFM | Ecuador | 11 October 1955 | Archbishop of Guayaquil |
+| 196 | Fernando Chomalí Garib | Chile | 10 March 1957 | Archbishop of Santiago de Chile |
+| 197 | Tarcisio Isao Kikuchi SVD | Japan | 1 November 1958 | Archbishop of Tokyo |
+| 198 | Pablo Virgilio David | Philippines | 2 March 1959 | Bishop of Kalookan |
+| 199 | Ladislav Nemet SVD | Serbia[q] | 7 September 1956 | Archbishop of Belgrade |
+| 200 | Jaime Spengler OFM | Brazil | 6 September 1960 | Archbishop of Porto Alegre |
+| 201 | Ignace Bessi Dogbo | Ivory Coast | 17 August 1961 | Archbishop of Abidjan |
+| 202 | Jean-Paul Vesco OP | Algeria[r] | 10 March 1962 | Archbishop of Algiers |
+| 203 | Dominique Mathieu OFMConv | Iran[s] | 13 June 1963 | Archbishop of Tehran–Isfahan |
+| 204 | Roberto Repole | Italy | 29 January 1967 | Archbishop of Turin and Bishop of Susa |
+| 205 | Baldassare Reina | Italy | 26 November 1970 | Vicar General for Rome and Archpriest of the Papal Basilica of Saint John Latera |
+| 206 | Frank Leo | Canada | 30 June 1971 | Archbishop of Toronto |
+| 207 | Mykola Bychok CSsR | Australia[t] | 13 February 1980 | Eparch of Saints Peter and Paul of Melbourne(Ukrainian Greek Church) |
+| 208 | Domenico Battaglia | Italy | 20 January 1963 | Archbishop of Naples |
+| 209 | Dominique Mamberti | France | 7 March 1952 | Prefect of the Supreme Tribunal of the Apostolic Signatura |
+| 210 | Mario Zenari* | Italy | 5 January 1946 | Apostolic Nuncio emeritus |
+| 211 | Kevin Farrell | United States[u] | 2 September 1947 | Prefect of the Dicastery for the Laity, Family and Life |
+| 212 | Ernest Simoni* | Albania | 18 October 1928 | Priest of the Archdiocese of Shkodër–Pult |
+| 213 | Luis Ladaria Ferrer SJ* | Spain | 19 April 1944 | Prefect emeritus of the Dicastery for the Doctrine of the Faith |
+| 214 | Giovanni Angelo Becciu[w]* | Italy | 2 June 1948 | Prefect emeritus of the Congregation for the Causes of Saints |
+| 215 | Konrad Krajewski | Poland | 25 November 1963 | Archbishop of Łódź |
+| 216 | Aquilino Bocos Merino CMF* | Spain | 17 May 1938 | Superior General emeritus of the Missionary Sons of the Immaculate Heart of Mary |
+| 217 | José Tolentino de Mendonça | Portugal | 15 December 1965 | Prefect of the Dicastery for Culture and Education |
+| 218 | Michael Czerny SJ | Canada[x] | 18 July 1946 | Prefect of the Dicastery for Promoting Integral Human Development |
+| 219 | Michael Fitzgerald MAfr* | United Kingdom | 17 August 1937 | Apostolic Nuncio emeritus |
+| 220 | Mario Grech | Malta | 20 February 1957 | Secretary-General of the Synod of Bishops |
+| 221 | Marcello Semeraro | Italy | 22 December 1947 | Prefect of the Dicastery for the Causes of Saints |
+| 222 | Mauro Gambetti OFMConv | Italy | 27 October 1965 | Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter  |
+| 223 | Silvano Maria Tomasi CS* | Italy | 12 October 1940 | Special Delegate to the Sovereign Military Order of Malta |
+| 224 | Raniero Cantalamessa OFMCap* | Italy | 22 July 1934 | Preacher emeritus of the Papal Household |
+| 225 | Enrico Feroci* | Italy | 27 August 1940 | Pastor of the Shrine of Our Lady of Divine Love in Castel di Leva, Rome |
+| 226 | Arthur Roche | United Kingdom | 6 March 1950 | Prefect of the Dicastery for Divine Worship and the Discipline of the Sacraments |
+| 227 | Lazarus You Heung-sik | South Korea | 17 November 1951 | Prefect of the Dicastery for the Clergy |
+| 228 | Fernando Vérgez Alzaga LC* | Spain | 1 March 1945 | President emeritus of the Pontifical Commission for Vatican City State |
+| 229 | Gianfranco Ghirlanda SJ* | Italy | 5 July 1942 | Patron of the Sovereign Military Order of Malta |
+| 230 | Fortunato Frezza* | Italy | 6 February 1942 | Canon of the Chapter of the Papal Basilica of Saint Peter |
+| 231 | Claudio Gugerotti | Italy | 7 October 1955 | Prefect of the Dicastery for the Eastern Churches |
+| 232 | Víctor Manuel Fernández | Argentina | 18 July 1962 | Prefect of the Dicastery for the Doctrine of the Faith |
+| 233 | Christophe Pierre* | France | 30 January 1946 | Apostolic Nuncio emeritus |
+| 234 | Ángel Fernández Artime SDB | Spain | 21 August 1960 | Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of |
+| 235 | Agostino Marchetto* | Italy | 28 August 1940 | Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants a |
+| 236 | Angelo Acerbi* | Italy | 23 September 1925 | Apostolic Nuncio emeritus |
+| 237 | Rolandas Makrickas | Lithuania | 31 January 1972 | Archpriest of the Papal Basilica of Saint Mary Major |
+| 238 | Timothy Radcliffe OP* | United Kingdom | 22 August 1945 | Master emeritus of the Order of Preachers |
+| 239 | Fabio Baggio CS | Italy | 15 January 1965 | Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoti |
+| 240 | George Koovakad | India | 11 August 1973 | Prefect of the Dicastery for Interreligious Dialogue |
 
 *\* Cardinals over 80 years old are ineligible to vote in a papal conclave*
 

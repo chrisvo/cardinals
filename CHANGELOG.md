@@ -2,6 +2,13 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-09-01
+
+### Modified Cardinals (2)
+- **Michael Czerny SJ**
+  - Office: `Prefect of the Dicastery for Promoting Integral Human Development` → `Prefect Emeritus of the Dicastery for Promoting Integral Human Development`
+- **Fabio Baggio CS**
+  - Office: `Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoting Integral Human Development` → `Pro-Prefect of the Dicastery for Promoting Integral Human Development`
 ## Changes detected on 2026-08-04
 
 ### Removed Cardinals (1)

@@ -126,117 +126,116 @@ Rank,Name,Country,Born,Order,Consistory,Office,PapalConclaveEligible,CreatedCard
 125,Arlindo Gomes Furtado,Cape Verde,15 November 1949,CP,14 February 2015,Bishop emeritus of Santiago de Cabo Verde,True,Pope Francis
 126,Soane Patita Paini Mafi,Tonga,19 December 1961,CP,14 February 2015,Bishop of Tonga,True,Pope Francis
 127,Luis Héctor Villalba,Argentina,11 October 1934,CP,14 February 2015,Archbishop emeritus of Tucumán,False,Pope Francis
-128,Júlio Duarte Langa,Mozambique,27 October 1927,CP,14 February 2015,Bishop emeritus of Xai-Xai,False,Pope Francis
-129,Dieudonné Nzapalainga CSSp,Central African Republic,14 March 1967,CP,19 November 2016,Archbishop of Bangui,True,Pope Francis
-130,Carlos Osoro Sierra,Spain,16 May 1945,CP,19 November 2016,Archbishop emeritus of Madrid,False,Pope Francis
-131,Sérgio da Rocha,Brazil,21 October 1959,CP,19 November 2016,Archbishop of São Salvador da Bahia,True,Pope Francis
-132,Blase J. Cupich,United States,19 March 1949,CP,19 November 2016,Archbishop of Chicago,True,Pope Francis
-133,Patrick D'Rozario CSC,Bangladesh,1 October 1943,CP,19 November 2016,Archbishop emeritus of Dhaka,False,Pope Francis
-134,Baltazar Enrique Porras Cardozo,Venezuela,10 October 1944,CP,19 November 2016,Archbishop emeritus of Caracas,False,Pope Francis
-135,Jozef De Kesel,Belgium,17 June 1947,CP,19 November 2016,Archbishop emeritus of Mechelen–Brussels,True,Pope Francis
-136,Maurice Piat CSSp,Mauritius,19 July 1941,CP,19 November 2016,Bishop emeritus of Port-Louis,False,Pope Francis
-137,Carlos Aguiar Retes,Mexico,9 January 1950,CP,19 November 2016,Archbishop of Mexico,True,Pope Francis
-138,John Ribat MSC,Papua New Guinea,9 February 1957,CP,19 November 2016,Archbishop of Port Moresby,True,Pope Francis
-139,Joseph W. Tobin CSsR,United States,3 May 1952,CP,19 November 2016,Archbishop of Newark,True,Pope Francis
-140,Jean Zerbo,Mali,27 December 1943,CP,28 June 2017,Archbishop emeritus of Bamako,False,Pope Francis
-141,Juan José Omella,Spain,21 April 1946,CP,28 June 2017,Archbishop of Barcelona,False,Pope Francis
-142,Anders Arborelius OCD,Sweden,24 September 1949,CP,28 June 2017,Bishop of Stockholm,True,Pope Francis
-143,Louis-Marie Ling Mangkhanekhoun IVD,Laos,8 April 1944,CP,28 June 2017,Apostolic Vicar emeritus of Vientiane,False,Pope Francis
-144,Gregorio Rosa Chávez,El Salvador,3 September 1942,CP,28 June 2017,Auxiliary Bishop emeritus of San Salvador,False,Pope Francis
-145,Angelo De Donatis,Italy,4 January 1954,CP,28 June 2018,Major Penitentiary,True,Pope Francis
-146,Joseph Coutts,Pakistan,21 July 1945,CP,28 June 2018,Archbishop emeritus of Karachi,False,Pope Francis
-147,António Marto,Portugal,5 May 1947,CP,28 June 2018,Bishop emeritus of Leiria–Fátima,True,Pope Francis
-148,Pedro Barreto SJ,Peru,12 February 1944,CP,28 June 2018,Archbishop emeritus of Huancayo,False,Pope Francis
-149,Désiré Tsarahazana,Madagascar,13 June 1954,CP,28 June 2018,Archbishop of Toamasina,True,Pope Francis
-150,Giuseppe Petrocchi,Italy,19 August 1948,CP,28 June 2018,Archbishop emeritus of L'Aquila,True,Pope Francis
-151,Thomas Aquino Manyo Maeda,Japan,3 March 1949,CP,28 June 2018,Archbishop of Osaka–Takamatsu,True,Pope Francis
-152,Toribio Ticona Porco,Bolivia,25 April 1937,CP,28 June 2018,Bishop Prelate emeritus of Corocoro,False,Pope Francis
-153,Ignatius Suharyo Hardjoatmodjo,Indonesia,9 July 1950,CP,5 October 2019,Archbishop of Jakarta,True,Pope Francis
-154,Juan García Rodríguez,Cuba,11 July 1948,CP,5 October 2019,Archbishop of San Cristóbal de la Habana,True,Pope Francis
-155,Fridolin Ambongo Besungu OFMCap,Democratic Republic of the Congo,24 January 1960,CP,5 October 2019,Archbishop of Kinshasa,True,Pope Francis
-156,Jean-Claude Hollerich SJ,Luxembourg,9 August 1958,CP,5 October 2019,Archbishop of Luxembourg,True,Pope Francis
-157,Álvaro Leonel Ramazzini Imeri,Guatemala,16 July 1947,CP,5 October 2019,Bishop of Huehuetenango,True,Pope Francis
-158,Matteo Zuppi,Italy,11 October 1955,CP,5 October 2019,Archbishop of Bologna,True,Pope Francis
-159,Cristóbal López Romero SDB,Morocco[l],19 May 1952,CP,5 October 2019,Archbishop of Rabat,True,Pope Francis
-160,Sigitas Tamkevičius SJ,Lithuania,7 November 1938,CP,5 October 2019,Archbishop emeritus of Kaunas,False,Pope Francis
-161,Antoine Kambanda,Rwanda,10 November 1958,CP,28 November 2020,Archbishop of Kigali,True,Pope Francis
-162,Wilton Daniel Gregory,United States,7 December 1947,CP,28 November 2020,Archbishop emeritus of Washington,True,Pope Francis
-163,Jose Advincula OP,Philippines,30 March 1952,CP,28 November 2020,Archbishop of Manila,True,Pope Francis
-164,Celestino Aós Braco OFMCap,Chile[m],6 April 1945,CP,28 November 2020,Archbishop emeritus of Santiago de Chile,False,Pope Francis
-165,Augusto Paolo Lojudice,Italy,1 July 1964,CP,28 November 2020,Archbishop of Siena–Colle di Val d'Elsa–Montalcino and Bishop of Montepulciano–Chiusi–Pienza,True,Pope Francis
-166,Felipe Arizmendi Esquivel,Mexico,1 May 1940,CP,28 November 2020,Bishop emeritus of San Cristóbal de Las Casas,False,Pope Francis
-167,Jean-Marc Aveline,France,26 December 1958,CP,27 August 2022,Archbishop of Marseille,True,Pope Francis
-168,Peter Okpaleke,Nigeria,1 March 1963,CP,27 August 2022,Bishop of Ekwulobia,True,Pope Francis
-169,Leonardo Ulrich Steiner OFM,Brazil,6 November 1950,CP,27 August 2022,Archbishop of Manaus,True,Pope Francis
-170,Filipe Neri Ferrão,India,20 January 1953,CP,27 August 2022,Archbishop of Goa and Daman and Patriarch of the East Indies,True,Pope Francis
-171,Robert W. McElroy,United States,5 February 1954,CP,27 August 2022,Archbishop of Washington,True,Pope Francis
-172,Virgílio do Carmo da Silva SDB,East Timor,27 November 1967,CP,27 August 2022,Archbishop of Díli,True,Pope Francis
-173,Oscar Cantoni,Italy,1 September 1950,CP,27 August 2022,Bishop of Como,True,Pope Francis
-174,Anthony Poola,India,15 November 1961,CP,27 August 2022,Archbishop of Hyderabad,True,Pope Francis
-175,Paulo Cezar Costa,Brazil,20 July 1967,CP,27 August 2022,Archbishop of Brasília,True,Pope Francis
-176,William Goh,Singapore,25 June 1957,CP,27 August 2022,Archbishop of Singapore,True,Pope Francis
-177,Adalberto Martínez Flores,Paraguay,8 July 1951,CP,27 August 2022,Archbishop of Asunción,True,Pope Francis
-178,Giorgio Marengo IMC,Mongolia[n],7 June 1974,CP,27 August 2022,Apostolic Prefect of Ulaanbaatar,True,Pope Francis
-179,Jorge Enrique Jiménez Carvajal CJM,Colombia,29 March 1942,CP,27 August 2022,Archbishop emeritus of Cartagena,False,Pope Francis
-180,Arrigo Miglio,Italy,18 July 1942,CP,27 August 2022,Archbishop emeritus of Cagliari,False,Pope Francis
-181,Pierbattista Pizzaballa OFM,Jerusalem[o],21 April 1965,CP,30 September 2023,Latin Patriarch of Jerusalem,True,Pope Francis
-182,Stephen Brislin,South Africa,24 September 1956,CP,30 September 2023,Archbishop of Johannesburg,True,Pope Francis
-183,Ángel Sixto Rossi SJ,Argentina,11 August 1958,CP,30 September 2023,Archbishop of Córdoba,True,Pope Francis
-184,Luis José Rueda Aparicio,Colombia,3 March 1962,CP,30 September 2023,Archbishop of Bogotá,True,Pope Francis
-185,Grzegorz Ryś,Poland,9 February 1964,CP,30 September 2023,Archbishop of Kraków,True,Pope Francis
-186,Stephen Ameyu Martin Mulla,South Sudan,10 January 1964,CP,30 September 2023,Archbishop of Juba,True,Pope Francis
-187,José Cobo Cano,Spain,20 September 1965,CP,30 September 2023,Archbishop of Madrid,True,Pope Francis
-188,Protase Rugambwa,Tanzania,31 May 1960,CP,30 September 2023,Archbishop of Tabora,True,Pope Francis
-189,Sebastian Francis,Malaysia,11 November 1951,CP,30 September 2023,Bishop of Penang,True,Pope Francis
-190,Stephen Chow Sau-yan SJ,China(Hong Kong)[f],7 August 1959,CP,30 September 2023,Bishop of Hong Kong,True,Pope Francis
-191,François-Xavier Bustillo OFMConv,France[p],23 November 1968,CP,30 September 2023,Bishop of Ajaccio,True,Pope Francis
-192,Américo Aguiar,Portugal,12 December 1973,CP,30 September 2023,Bishop of Setúbal,True,Pope Francis
-193,Diego Rafael Padrón Sánchez,Venezuela,17 May 1939,CP,30 September 2023,Archbishop emeritus of Cumaná,False,Pope Francis
-194,Carlos Castillo Mattasoglio,Peru,28 February 1950,CP,7 December 2024,Archbishop of Lima,True,Pope Francis
-195,Vicente Bokalic Iglic CM,Argentina,11 June 1952,CP,7 December 2024,Archbishop of Santiago del Estero,True,Pope Francis
-196,Luis Cabrera Herrera OFM,Ecuador,11 October 1955,CP,7 December 2024,Archbishop of Guayaquil,True,Pope Francis
-197,Fernando Chomalí Garib,Chile,10 March 1957,CP,7 December 2024,Archbishop of Santiago de Chile,True,Pope Francis
-198,Tarcisio Isao Kikuchi SVD,Japan,1 November 1958,CP,7 December 2024,Archbishop of Tokyo,True,Pope Francis
-199,Pablo Virgilio David,Philippines,2 March 1959,CP,7 December 2024,Bishop of Kalookan,True,Pope Francis
-200,Ladislav Nemet SVD,Serbia[q],7 September 1956,CP,7 December 2024,Archbishop of Belgrade,True,Pope Francis
-201,Jaime Spengler OFM,Brazil,6 September 1960,CP,7 December 2024,Archbishop of Porto Alegre,True,Pope Francis
-202,Ignace Bessi Dogbo,Ivory Coast,17 August 1961,CP,7 December 2024,Archbishop of Abidjan,True,Pope Francis
-203,Jean-Paul Vesco OP,Algeria[r],10 March 1962,CP,7 December 2024,Archbishop of Algiers,True,Pope Francis
-204,Dominique Mathieu OFMConv,Iran[s],13 June 1963,CP,7 December 2024,Archbishop of Tehran–Isfahan,True,Pope Francis
-205,Roberto Repole,Italy,29 January 1967,CP,7 December 2024,Archbishop of Turin and Bishop of Susa,True,Pope Francis
-206,Baldassare Reina,Italy,26 November 1970,CP,7 December 2024,Vicar General for Rome and Archpriest of the Papal Basilica of Saint John Lateran,True,Pope Francis
-207,Frank Leo,Canada,30 June 1971,CP,7 December 2024,Archbishop of Toronto,True,Pope Francis
-208,Mykola Bychok CSsR,Australia[t],13 February 1980,CP,7 December 2024,Eparch of Saints Peter and Paul of Melbourne(Ukrainian Greek Church),True,Pope Francis
-209,Domenico Battaglia,Italy,20 January 1963,CP,7 December 2024,Archbishop of Naples,True,Pope Francis
-210,Dominique Mamberti,France,7 March 1952,CD,14 February 2015,Prefect of the Supreme Tribunal of the Apostolic Signatura,True,Pope Francis
-211,Mario Zenari,Italy,5 January 1946,CD,19 November 2016,Apostolic Nuncio emeritus,False,Pope Francis
-212,Kevin Farrell,United States[u],2 September 1947,CD,19 November 2016,"Prefect of the Dicastery for the Laity, Family and Life",True,Pope Francis
-213,Ernest Simoni,Albania,18 October 1928,CD,19 November 2016,Priest of the Archdiocese of Shkodër–Pult,False,Pope Francis
-214,Luis Ladaria Ferrer SJ,Spain,19 April 1944,CD,28 June 2018,Prefect emeritus of the Dicastery for the Doctrine of the Faith,False,Pope Francis
-215,Giovanni Angelo Becciu[w],Italy,2 June 1948,CD,28 June 2018,Prefect emeritus of the Congregation for the Causes of Saints,False,Pope Francis
-216,Konrad Krajewski,Poland,25 November 1963,CD,28 June 2018,Archbishop of Łódź,True,Pope Francis
-217,Aquilino Bocos Merino CMF,Spain,17 May 1938,CD,28 June 2018,Superior General emeritus of the Missionary Sons of the Immaculate Heart of Mary,False,Pope Francis
-218,José Tolentino de Mendonça,Portugal,15 December 1965,CD,5 October 2019,Prefect of the Dicastery for Culture and Education,True,Pope Francis
-219,Michael Czerny SJ,Canada[x],18 July 1946,CD,5 October 2019,Prefect of the Dicastery for Promoting Integral Human Development,True,Pope Francis
-220,Michael Fitzgerald MAfr,United Kingdom,17 August 1937,CD,5 October 2019,Apostolic Nuncio emeritus,False,Pope Francis
-221,Mario Grech,Malta,20 February 1957,CD,28 November 2020,Secretary-General of the Synod of Bishops,True,Pope Francis
-222,Marcello Semeraro,Italy,22 December 1947,CD,28 November 2020,Prefect of the Dicastery for the Causes of Saints,True,Pope Francis
-223,Mauro Gambetti OFMConv,Italy,27 October 1965,CD,28 November 2020,"Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter and President of the Fabric of Saint Peter",True,Pope Francis
-224,Silvano Maria Tomasi CS,Italy,12 October 1940,CD,28 November 2020,Special Delegate to the Sovereign Military Order of Malta,False,Pope Francis
-225,Raniero Cantalamessa OFMCap,Italy,22 July 1934,CD,28 November 2020,Preacher emeritus of the Papal Household,False,Pope Francis
-226,Enrico Feroci,Italy,27 August 1940,CD,28 November 2020,"Pastor of the Shrine of Our Lady of Divine Love in Castel di Leva, Rome",False,Pope Francis
-227,Arthur Roche,United Kingdom,6 March 1950,CD,27 August 2022,Prefect of the Dicastery for Divine Worship and the Discipline of the Sacraments,True,Pope Francis
-228,Lazarus You Heung-sik,South Korea,17 November 1951,CD,27 August 2022,Prefect of the Dicastery for the Clergy,True,Pope Francis
-229,Fernando Vérgez Alzaga LC,Spain,1 March 1945,CD,27 August 2022,President emeritus of the Pontifical Commission for Vatican City State,False,Pope Francis
-230,Gianfranco Ghirlanda SJ,Italy,5 July 1942,CD,27 August 2022,Patron of the Sovereign Military Order of Malta,False,Pope Francis
-231,Fortunato Frezza,Italy,6 February 1942,CD,27 August 2022,Canon of the Chapter of the Papal Basilica of Saint Peter,False,Pope Francis
-232,Claudio Gugerotti,Italy,7 October 1955,CD,30 September 2023,Prefect of the Dicastery for the Eastern Churches,True,Pope Francis
-233,Víctor Manuel Fernández,Argentina,18 July 1962,CD,30 September 2023,Prefect of the Dicastery for the Doctrine of the Faith,True,Pope Francis
-234,Christophe Pierre,France,30 January 1946,CD,30 September 2023,Apostolic Nuncio emeritus,False,Pope Francis
-235,Ángel Fernández Artime SDB,Spain,21 August 1960,CD,30 September 2023,Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life,True,Pope Francis
-236,Agostino Marchetto,Italy,28 August 1940,CD,30 September 2023,Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People,False,Pope Francis
-237,Angelo Acerbi,Italy,23 September 1925,CD,7 December 2024,Apostolic Nuncio emeritus,False,Pope Francis
-238,Rolandas Makrickas,Lithuania,31 January 1972,CD,7 December 2024,Archpriest of the Papal Basilica of Saint Mary Major,True,Pope Francis
-239,Timothy Radcliffe OP,United Kingdom,22 August 1945,CD,7 December 2024,Master emeritus of the Order of Preachers,False,Pope Francis
-240,Fabio Baggio CS,Italy,15 January 1965,CD,7 December 2024,Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoting Integral Human Development,True,Pope Francis
-241,George Koovakad,India,11 August 1973,CD,7 December 2024,Prefect of the Dicastery for Interreligious Dialogue,True,Pope Francis
+128,Dieudonné Nzapalainga CSSp,Central African Republic,14 March 1967,CP,19 November 2016,Archbishop of Bangui,True,Pope Francis
+129,Carlos Osoro Sierra,Spain,16 May 1945,CP,19 November 2016,Archbishop emeritus of Madrid,False,Pope Francis
+130,Sérgio da Rocha,Brazil,21 October 1959,CP,19 November 2016,Archbishop of São Salvador da Bahia,True,Pope Francis
+131,Blase J. Cupich,United States,19 March 1949,CP,19 November 2016,Archbishop of Chicago,True,Pope Francis
+132,Patrick D'Rozario CSC,Bangladesh,1 October 1943,CP,19 November 2016,Archbishop emeritus of Dhaka,False,Pope Francis
+133,Baltazar Enrique Porras Cardozo,Venezuela,10 October 1944,CP,19 November 2016,Archbishop emeritus of Caracas,False,Pope Francis
+134,Jozef De Kesel,Belgium,17 June 1947,CP,19 November 2016,Archbishop emeritus of Mechelen–Brussels,True,Pope Francis
+135,Maurice Piat CSSp,Mauritius,19 July 1941,CP,19 November 2016,Bishop emeritus of Port-Louis,False,Pope Francis
+136,Carlos Aguiar Retes,Mexico,9 January 1950,CP,19 November 2016,Archbishop of Mexico,True,Pope Francis
+137,John Ribat MSC,Papua New Guinea,9 February 1957,CP,19 November 2016,Archbishop of Port Moresby,True,Pope Francis
+138,Joseph W. Tobin CSsR,United States,3 May 1952,CP,19 November 2016,Archbishop of Newark,True,Pope Francis
+139,Jean Zerbo,Mali,27 December 1943,CP,28 June 2017,Archbishop emeritus of Bamako,False,Pope Francis
+140,Juan José Omella,Spain,21 April 1946,CP,28 June 2017,Archbishop of Barcelona,False,Pope Francis
+141,Anders Arborelius OCD,Sweden,24 September 1949,CP,28 June 2017,Bishop of Stockholm,True,Pope Francis
+142,Louis-Marie Ling Mangkhanekhoun IVD,Laos,8 April 1944,CP,28 June 2017,Apostolic Vicar emeritus of Vientiane,False,Pope Francis
+143,Gregorio Rosa Chávez,El Salvador,3 September 1942,CP,28 June 2017,Auxiliary Bishop emeritus of San Salvador,False,Pope Francis
+144,Angelo De Donatis,Italy,4 January 1954,CP,28 June 2018,Major Penitentiary,True,Pope Francis
+145,Joseph Coutts,Pakistan,21 July 1945,CP,28 June 2018,Archbishop emeritus of Karachi,False,Pope Francis
+146,António Marto,Portugal,5 May 1947,CP,28 June 2018,Bishop emeritus of Leiria–Fátima,True,Pope Francis
+147,Pedro Barreto SJ,Peru,12 February 1944,CP,28 June 2018,Archbishop emeritus of Huancayo,False,Pope Francis
+148,Désiré Tsarahazana,Madagascar,13 June 1954,CP,28 June 2018,Archbishop of Toamasina,True,Pope Francis
+149,Giuseppe Petrocchi,Italy,19 August 1948,CP,28 June 2018,Archbishop emeritus of L'Aquila,True,Pope Francis
+150,Thomas Aquino Manyo Maeda,Japan,3 March 1949,CP,28 June 2018,Archbishop of Osaka–Takamatsu,True,Pope Francis
+151,Toribio Ticona Porco,Bolivia,25 April 1937,CP,28 June 2018,Bishop Prelate emeritus of Corocoro,False,Pope Francis
+152,Ignatius Suharyo Hardjoatmodjo,Indonesia,9 July 1950,CP,5 October 2019,Archbishop of Jakarta,True,Pope Francis
+153,Juan García Rodríguez,Cuba,11 July 1948,CP,5 October 2019,Archbishop of San Cristóbal de la Habana,True,Pope Francis
+154,Fridolin Ambongo Besungu OFMCap,Democratic Republic of the Congo,24 January 1960,CP,5 October 2019,Archbishop of Kinshasa,True,Pope Francis
+155,Jean-Claude Hollerich SJ,Luxembourg,9 August 1958,CP,5 October 2019,Archbishop of Luxembourg,True,Pope Francis
+156,Álvaro Leonel Ramazzini Imeri,Guatemala,16 July 1947,CP,5 October 2019,Bishop of Huehuetenango,True,Pope Francis
+157,Matteo Zuppi,Italy,11 October 1955,CP,5 October 2019,Archbishop of Bologna,True,Pope Francis
+158,Cristóbal López Romero SDB,Morocco[l],19 May 1952,CP,5 October 2019,Archbishop of Rabat,True,Pope Francis
+159,Sigitas Tamkevičius SJ,Lithuania,7 November 1938,CP,5 October 2019,Archbishop emeritus of Kaunas,False,Pope Francis
+160,Antoine Kambanda,Rwanda,10 November 1958,CP,28 November 2020,Archbishop of Kigali,True,Pope Francis
+161,Wilton Daniel Gregory,United States,7 December 1947,CP,28 November 2020,Archbishop emeritus of Washington,True,Pope Francis
+162,Jose Advincula OP,Philippines,30 March 1952,CP,28 November 2020,Archbishop of Manila,True,Pope Francis
+163,Celestino Aós Braco OFMCap,Chile[m],6 April 1945,CP,28 November 2020,Archbishop emeritus of Santiago de Chile,False,Pope Francis
+164,Augusto Paolo Lojudice,Italy,1 July 1964,CP,28 November 2020,Archbishop of Siena–Colle di Val d'Elsa–Montalcino and Bishop of Montepulciano–Chiusi–Pienza,True,Pope Francis
+165,Felipe Arizmendi Esquivel,Mexico,1 May 1940,CP,28 November 2020,Bishop emeritus of San Cristóbal de Las Casas,False,Pope Francis
+166,Jean-Marc Aveline,France,26 December 1958,CP,27 August 2022,Archbishop of Marseille,True,Pope Francis
+167,Peter Okpaleke,Nigeria,1 March 1963,CP,27 August 2022,Bishop of Ekwulobia,True,Pope Francis
+168,Leonardo Ulrich Steiner OFM,Brazil,6 November 1950,CP,27 August 2022,Archbishop of Manaus,True,Pope Francis
+169,Filipe Neri Ferrão,India,20 January 1953,CP,27 August 2022,Archbishop of Goa and Daman and Patriarch of the East Indies,True,Pope Francis
+170,Robert W. McElroy,United States,5 February 1954,CP,27 August 2022,Archbishop of Washington,True,Pope Francis
+171,Virgílio do Carmo da Silva SDB,East Timor,27 November 1967,CP,27 August 2022,Archbishop of Díli,True,Pope Francis
+172,Oscar Cantoni,Italy,1 September 1950,CP,27 August 2022,Bishop of Como,True,Pope Francis
+173,Anthony Poola,India,15 November 1961,CP,27 August 2022,Archbishop of Hyderabad,True,Pope Francis
+174,Paulo Cezar Costa,Brazil,20 July 1967,CP,27 August 2022,Archbishop of Brasília,True,Pope Francis
+175,William Goh,Singapore,25 June 1957,CP,27 August 2022,Archbishop of Singapore,True,Pope Francis
+176,Adalberto Martínez Flores,Paraguay,8 July 1951,CP,27 August 2022,Archbishop of Asunción,True,Pope Francis
+177,Giorgio Marengo IMC,Mongolia[n],7 June 1974,CP,27 August 2022,Apostolic Prefect of Ulaanbaatar,True,Pope Francis
+178,Jorge Enrique Jiménez Carvajal CJM,Colombia,29 March 1942,CP,27 August 2022,Archbishop emeritus of Cartagena,False,Pope Francis
+179,Arrigo Miglio,Italy,18 July 1942,CP,27 August 2022,Archbishop emeritus of Cagliari,False,Pope Francis
+180,Pierbattista Pizzaballa OFM,Jerusalem[o],21 April 1965,CP,30 September 2023,Latin Patriarch of Jerusalem,True,Pope Francis
+181,Stephen Brislin,South Africa,24 September 1956,CP,30 September 2023,Archbishop of Johannesburg,True,Pope Francis
+182,Ángel Sixto Rossi SJ,Argentina,11 August 1958,CP,30 September 2023,Archbishop of Córdoba,True,Pope Francis
+183,Luis José Rueda Aparicio,Colombia,3 March 1962,CP,30 September 2023,Archbishop of Bogotá,True,Pope Francis
+184,Grzegorz Ryś,Poland,9 February 1964,CP,30 September 2023,Archbishop of Kraków,True,Pope Francis
+185,Stephen Ameyu Martin Mulla,South Sudan,10 January 1964,CP,30 September 2023,Archbishop of Juba,True,Pope Francis
+186,José Cobo Cano,Spain,20 September 1965,CP,30 September 2023,Archbishop of Madrid,True,Pope Francis
+187,Protase Rugambwa,Tanzania,31 May 1960,CP,30 September 2023,Archbishop of Tabora,True,Pope Francis
+188,Sebastian Francis,Malaysia,11 November 1951,CP,30 September 2023,Bishop of Penang,True,Pope Francis
+189,Stephen Chow Sau-yan SJ,China(Hong Kong)[f],7 August 1959,CP,30 September 2023,Bishop of Hong Kong,True,Pope Francis
+190,François-Xavier Bustillo OFMConv,France[p],23 November 1968,CP,30 September 2023,Bishop of Ajaccio,True,Pope Francis
+191,Américo Aguiar,Portugal,12 December 1973,CP,30 September 2023,Bishop of Setúbal,True,Pope Francis
+192,Diego Rafael Padrón Sánchez,Venezuela,17 May 1939,CP,30 September 2023,Archbishop emeritus of Cumaná,False,Pope Francis
+193,Carlos Castillo Mattasoglio,Peru,28 February 1950,CP,7 December 2024,Archbishop of Lima,True,Pope Francis
+194,Vicente Bokalic Iglic CM,Argentina,11 June 1952,CP,7 December 2024,Archbishop of Santiago del Estero,True,Pope Francis
+195,Luis Cabrera Herrera OFM,Ecuador,11 October 1955,CP,7 December 2024,Archbishop of Guayaquil,True,Pope Francis
+196,Fernando Chomalí Garib,Chile,10 March 1957,CP,7 December 2024,Archbishop of Santiago de Chile,True,Pope Francis
+197,Tarcisio Isao Kikuchi SVD,Japan,1 November 1958,CP,7 December 2024,Archbishop of Tokyo,True,Pope Francis
+198,Pablo Virgilio David,Philippines,2 March 1959,CP,7 December 2024,Bishop of Kalookan,True,Pope Francis
+199,Ladislav Nemet SVD,Serbia[q],7 September 1956,CP,7 December 2024,Archbishop of Belgrade,True,Pope Francis
+200,Jaime Spengler OFM,Brazil,6 September 1960,CP,7 December 2024,Archbishop of Porto Alegre,True,Pope Francis
+201,Ignace Bessi Dogbo,Ivory Coast,17 August 1961,CP,7 December 2024,Archbishop of Abidjan,True,Pope Francis
+202,Jean-Paul Vesco OP,Algeria[r],10 March 1962,CP,7 December 2024,Archbishop of Algiers,True,Pope Francis
+203,Dominique Mathieu OFMConv,Iran[s],13 June 1963,CP,7 December 2024,Archbishop of Tehran–Isfahan,True,Pope Francis
+204,Roberto Repole,Italy,29 January 1967,CP,7 December 2024,Archbishop of Turin and Bishop of Susa,True,Pope Francis
+205,Baldassare Reina,Italy,26 November 1970,CP,7 December 2024,Vicar General for Rome and Archpriest of the Papal Basilica of Saint John Lateran,True,Pope Francis
+206,Frank Leo,Canada,30 June 1971,CP,7 December 2024,Archbishop of Toronto,True,Pope Francis
+207,Mykola Bychok CSsR,Australia[t],13 February 1980,CP,7 December 2024,Eparch of Saints Peter and Paul of Melbourne(Ukrainian Greek Church),True,Pope Francis
+208,Domenico Battaglia,Italy,20 January 1963,CP,7 December 2024,Archbishop of Naples,True,Pope Francis
+209,Dominique Mamberti,France,7 March 1952,CD,14 February 2015,Prefect of the Supreme Tribunal of the Apostolic Signatura,True,Pope Francis
+210,Mario Zenari,Italy,5 January 1946,CD,19 November 2016,Apostolic Nuncio emeritus,False,Pope Francis
+211,Kevin Farrell,United States[u],2 September 1947,CD,19 November 2016,"Prefect of the Dicastery for the Laity, Family and Life",True,Pope Francis
+212,Ernest Simoni,Albania,18 October 1928,CD,19 November 2016,Priest of the Archdiocese of Shkodër–Pult,False,Pope Francis
+213,Luis Ladaria Ferrer SJ,Spain,19 April 1944,CD,28 June 2018,Prefect emeritus of the Dicastery for the Doctrine of the Faith,False,Pope Francis
+214,Giovanni Angelo Becciu[w],Italy,2 June 1948,CD,28 June 2018,Prefect emeritus of the Congregation for the Causes of Saints,False,Pope Francis
+215,Konrad Krajewski,Poland,25 November 1963,CD,28 June 2018,Archbishop of Łódź,True,Pope Francis
+216,Aquilino Bocos Merino CMF,Spain,17 May 1938,CD,28 June 2018,Superior General emeritus of the Missionary Sons of the Immaculate Heart of Mary,False,Pope Francis
+217,José Tolentino de Mendonça,Portugal,15 December 1965,CD,5 October 2019,Prefect of the Dicastery for Culture and Education,True,Pope Francis
+218,Michael Czerny SJ,Canada[x],18 July 1946,CD,5 October 2019,Prefect of the Dicastery for Promoting Integral Human Development,True,Pope Francis
+219,Michael Fitzgerald MAfr,United Kingdom,17 August 1937,CD,5 October 2019,Apostolic Nuncio emeritus,False,Pope Francis
+220,Mario Grech,Malta,20 February 1957,CD,28 November 2020,Secretary-General of the Synod of Bishops,True,Pope Francis
+221,Marcello Semeraro,Italy,22 December 1947,CD,28 November 2020,Prefect of the Dicastery for the Causes of Saints,True,Pope Francis
+222,Mauro Gambetti OFMConv,Italy,27 October 1965,CD,28 November 2020,"Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter and President of the Fabric of Saint Peter",True,Pope Francis
+223,Silvano Maria Tomasi CS,Italy,12 October 1940,CD,28 November 2020,Special Delegate to the Sovereign Military Order of Malta,False,Pope Francis
+224,Raniero Cantalamessa OFMCap,Italy,22 July 1934,CD,28 November 2020,Preacher emeritus of the Papal Household,False,Pope Francis
+225,Enrico Feroci,Italy,27 August 1940,CD,28 November 2020,"Pastor of the Shrine of Our Lady of Divine Love in Castel di Leva, Rome",False,Pope Francis
+226,Arthur Roche,United Kingdom,6 March 1950,CD,27 August 2022,Prefect of the Dicastery for Divine Worship and the Discipline of the Sacraments,True,Pope Francis
+227,Lazarus You Heung-sik,South Korea,17 November 1951,CD,27 August 2022,Prefect of the Dicastery for the Clergy,True,Pope Francis
+228,Fernando Vérgez Alzaga LC,Spain,1 March 1945,CD,27 August 2022,President emeritus of the Pontifical Commission for Vatican City State,False,Pope Francis
+229,Gianfranco Ghirlanda SJ,Italy,5 July 1942,CD,27 August 2022,Patron of the Sovereign Military Order of Malta,False,Pope Francis
+230,Fortunato Frezza,Italy,6 February 1942,CD,27 August 2022,Canon of the Chapter of the Papal Basilica of Saint Peter,False,Pope Francis
+231,Claudio Gugerotti,Italy,7 October 1955,CD,30 September 2023,Prefect of the Dicastery for the Eastern Churches,True,Pope Francis
+232,Víctor Manuel Fernández,Argentina,18 July 1962,CD,30 September 2023,Prefect of the Dicastery for the Doctrine of the Faith,True,Pope Francis
+233,Christophe Pierre,France,30 January 1946,CD,30 September 2023,Apostolic Nuncio emeritus,False,Pope Francis
+234,Ángel Fernández Artime SDB,Spain,21 August 1960,CD,30 September 2023,Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life,True,Pope Francis
+235,Agostino Marchetto,Italy,28 August 1940,CD,30 September 2023,Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People,False,Pope Francis
+236,Angelo Acerbi,Italy,23 September 1925,CD,7 December 2024,Apostolic Nuncio emeritus,False,Pope Francis
+237,Rolandas Makrickas,Lithuania,31 January 1972,CD,7 December 2024,Archpriest of the Papal Basilica of Saint Mary Major,True,Pope Francis
+238,Timothy Radcliffe OP,United Kingdom,22 August 1945,CD,7 December 2024,Master emeritus of the Order of Preachers,False,Pope Francis
+239,Fabio Baggio CS,Italy,15 January 1965,CD,7 December 2024,Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoting Integral Human Development,True,Pope Francis
+240,George Koovakad,India,11 August 1973,CD,7 December 2024,Prefect of the Dicastery for Interreligious Dialogue,True,Pope Francis
