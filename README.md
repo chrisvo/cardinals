@@ -287,7 +287,7 @@ Total: **240 cardinals**
 | 215 | Konrad Krajewski | Poland | 25 November 1963 | Archbishop of Łódź |
 | 216 | Aquilino Bocos Merino CMF* | Spain | 17 May 1938 | Superior General emeritus of the Missionary Sons of the Immaculate Heart of Mary |
 | 217 | José Tolentino de Mendonça | Portugal | 15 December 1965 | Prefect of the Dicastery for Culture and Education |
-| 218 | Michael Czerny SJ | Canada[x] | 18 July 1946 | Prefect of the Dicastery for Promoting Integral Human Development |
+| 218 | Michael Czerny SJ | Canada[x] | 18 July 1946 | Prefect Emeritus of the Dicastery for Promoting Integral Human Development |
 | 219 | Michael Fitzgerald MAfr* | United Kingdom | 17 August 1937 | Apostolic Nuncio emeritus |
 | 220 | Mario Grech | Malta | 20 February 1957 | Secretary-General of the Synod of Bishops |
 | 221 | Marcello Semeraro | Italy | 22 December 1947 | Prefect of the Dicastery for the Causes of Saints |
@@ -308,7 +308,7 @@ Total: **240 cardinals**
 | 236 | Angelo Acerbi* | Italy | 23 September 1925 | Apostolic Nuncio emeritus |
 | 237 | Rolandas Makrickas | Lithuania | 31 January 1972 | Archpriest of the Papal Basilica of Saint Mary Major |
 | 238 | Timothy Radcliffe OP* | United Kingdom | 22 August 1945 | Master emeritus of the Order of Preachers |
-| 239 | Fabio Baggio CS | Italy | 15 January 1965 | Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoti |
+| 239 | Fabio Baggio CS | Italy | 15 January 1965 | Pro-Prefect of the Dicastery for Promoting Integral Human Development |
 | 240 | George Koovakad | India | 11 August 1973 | Prefect of the Dicastery for Interreligious Dialogue |
 
 *\* Cardinals over 80 years old are ineligible to vote in a papal conclave*

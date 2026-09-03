@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-09-03
+
+### Modified Cardinals (1)
+- **Michael Czerny SJ**
+  - Office: `Prefect Emeritus of the Dicastery for Promoting Integral Human Development` → `Prefect emeritus of the Dicastery for Promoting Integral Human Development`
 ## Changes detected on 2026-09-01
 
 ### Modified Cardinals (2)
