@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-10-05
+
+### Modified Cardinals (1)
+- **Mauro Gambetti OFMConv**
+  - Office: `Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter and President of the Fabric of Saint Peter` → `Archbishop of Chieti-Vasto`
 ## Changes detected on 2026-09-03
 
 ### Modified Cardinals (1)
