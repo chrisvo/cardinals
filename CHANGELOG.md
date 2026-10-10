@@ -2,6 +2,72 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-10-10
+
+### Modified Cardinals (9)
+- **Luis Antonio Tagle**
+  - Name: `Giovanni Battista Re` → `Luis Antonio Tagle`
+  - Country: `Italy` → `Philippines`
+  - Born: `30 January 1934` → `21 June 1957`
+  - Consistory: `21 February 2001` → `24 November 2012`
+  - Office: `Prefect emeritus of the Congregation for Bishops (Dean)` → `Pro-Prefect of the Dicastery for Evangelization`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope Benedict XVI`
+- **Giovanni Battista Re**
+  - Name: `Francis Arinze` → `Giovanni Battista Re`
+  - Country: `Nigeria` → `Italy`
+  - Born: `1 November 1932` → `30 January 1934`
+  - Consistory: `25 May 1985` → `21 February 2001`
+  - Office: `Prefect emeritus of the Congregation for Divine Worship and the Discipline of the Sacraments` → `Prefect emeritus of the Congregation for Bishops (Dean emeritus)`
+- **Francis Arinze**
+  - Name: `Tarcisio Bertone SDB` → `Francis Arinze`
+  - Country: `Italy` → `Nigeria`
+  - Born: `2 December 1934` → `1 November 1932`
+  - Consistory: `21 October 2003` → `25 May 1985`
+  - Office: `Secretary of State emeritus of His Holiness and Camerlengo emeritus of the Holy Roman Church` → `Prefect emeritus of the Congregation for Divine Worship and the Discipline of the Sacraments`
+- **Tarcisio Bertone SDB**
+  - Name: `José Saraiva Martins CMF` → `Tarcisio Bertone SDB`
+  - Country: `Portugal` → `Italy`
+  - Born: `6 January 1932` → `2 December 1934`
+  - Consistory: `21 February 2001` → `21 October 2003`
+  - Office: `Prefect emeritus of the Congregation for the Causes of Saints` → `Secretary of State emeritus of His Holiness and Camerlengo emeritus of the Holy Roman Church`
+- **José Saraiva Martins CMF**
+  - Name: `Pietro Parolin` → `José Saraiva Martins CMF`
+  - Country: `Italy` → `Portugal`
+  - Born: `17 January 1955` → `6 January 1932`
+  - Consistory: `22 February 2014` → `21 February 2001`
+  - Office: `Secretary of State of His Holiness` → `Prefect emeritus of the Congregation for the Causes of Saints`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Francis` → `Pope John Paul II`
+- **Pietro Parolin**
+  - Name: `Marc Ouellet PSS` → `Pietro Parolin`
+  - Country: `Canada` → `Italy`
+  - Born: `8 June 1944` → `17 January 1955`
+  - Consistory: `21 October 2003` → `22 February 2014`
+  - Office: `Prefect emeritus of the Dicastery for Bishops` → `Secretary of State of His Holiness`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope Francis`
+- **Marc Ouellet PSS**
+  - Name: `Fernando Filoni` → `Marc Ouellet PSS`
+  - Country: `Italy` → `Canada`
+  - Born: `15 April 1946` → `8 June 1944`
+  - Consistory: `18 February 2012` → `21 October 2003`
+  - Office: `Grand Master of the Order of the Holy Sepulchre` → `Prefect emeritus of the Dicastery for Bishops`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope John Paul II`
+- **Fernando Filoni**
+  - Name: `Beniamino Stella` → `Fernando Filoni`
+  - Born: `18 August 1941` → `15 April 1946`
+  - Consistory: `22 February 2014` → `18 February 2012`
+  - Office: `Prefect emeritus of the Congregation for the Clergy` → `Grand Master of the Order of the Holy Sepulchre`
+  - CreatedCardinalBy: `Pope Francis` → `Pope Benedict XVI`
+- **Beniamino Stella**
+  - Name: `Luis Antonio Tagle` → `Beniamino Stella`
+  - Country: `Philippines` → `Italy`
+  - Born: `21 June 1957` → `18 August 1941`
+  - Consistory: `24 November 2012` → `22 February 2014`
+  - Office: `Pro-Prefect of the Dicastery for Evangelization` → `Prefect emeritus of the Congregation for the Clergy`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Francis`
 ## Changes detected on 2026-10-05
 
 ### Modified Cardinals (1)

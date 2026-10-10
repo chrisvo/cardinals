@@ -291,7 +291,7 @@ Total: **240 cardinals**
 | 219 | Michael Fitzgerald MAfr* | United Kingdom | 17 August 1937 | Apostolic Nuncio emeritus |
 | 220 | Mario Grech | Malta | 20 February 1957 | Secretary-General of the Synod of Bishops |
 | 221 | Marcello Semeraro | Italy | 22 December 1947 | Prefect of the Dicastery for the Causes of Saints |
-| 222 | Mauro Gambetti OFMConv | Italy | 27 October 1965 | Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter  |
+| 222 | Mauro Gambetti OFMConv | Italy | 27 October 1965 | Archbishop of Chieti-Vasto |
 | 223 | Silvano Maria Tomasi CS* | Italy | 12 October 1940 | Special Delegate to the Sovereign Military Order of Malta |
 | 224 | Raniero Cantalamessa OFMCap* | Italy | 22 July 1934 | Preacher emeritus of the Papal Household |
 | 225 | Enrico Feroci* | Italy | 27 August 1940 | Pastor of the Shrine of Our Lady of Divine Love in Castel di Leva, Rome |
