@@ -2,14 +2,14 @@
 <Cardinals total="240">
   <Cardinal>
     <Rank>1</Rank>
-    <Name>Giovanni Battista Re</Name>
-    <Country>Italy</Country>
-    <Born>30 January 1934</Born>
+    <Name>Luis Antonio Tagle</Name>
+    <Country>Philippines</Country>
+    <Born>21 June 1957</Born>
     <Order>CB</Order>
-    <Consistory>21 February 2001</Consistory>
-    <Office>Prefect emeritus of the Congregation for Bishops (Dean)</Office>
-    <PapalConclaveEligible>False</PapalConclaveEligible>
-    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+    <Consistory>24 November 2012</Consistory>
+    <Office>Pro-Prefect of the Dicastery for Evangelization</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
     <Rank>2</Rank>
@@ -24,6 +24,17 @@
   </Cardinal>
   <Cardinal>
     <Rank>3</Rank>
+    <Name>Giovanni Battista Re</Name>
+    <Country>Italy</Country>
+    <Born>30 January 1934</Born>
+    <Order>CB</Order>
+    <Consistory>21 February 2001</Consistory>
+    <Office>Prefect emeritus of the Congregation for Bishops (Dean emeritus)</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>4</Rank>
     <Name>Francis Arinze</Name>
     <Country>Nigeria</Country>
     <Born>1 November 1932</Born>
@@ -34,7 +45,7 @@
     <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Name>Tarcisio Bertone SDB</Name>
     <Country>Italy</Country>
     <Born>2 December 1934</Born>
@@ -45,7 +56,7 @@
     <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Name>José Saraiva Martins CMF</Name>
     <Country>Portugal</Country>
     <Born>6 January 1932</Born>
@@ -56,7 +67,7 @@
     <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Name>Pietro Parolin</Name>
     <Country>Italy</Country>
     <Born>17 January 1955</Born>
@@ -67,7 +78,7 @@
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Name>Marc Ouellet PSS</Name>
     <Country>Canada</Country>
     <Born>8 June 1944</Born>
@@ -78,7 +89,7 @@
     <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Name>Fernando Filoni</Name>
     <Country>Italy</Country>
     <Born>15 April 1946</Born>
@@ -89,7 +100,7 @@
     <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Name>Beniamino Stella</Name>
     <Country>Italy</Country>
     <Born>18 August 1941</Born>
@@ -98,17 +109,6 @@
     <Office>Prefect emeritus of the Congregation for the Clergy</Office>
     <PapalConclaveEligible>False</PapalConclaveEligible>
     <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
-  </Cardinal>
-  <Cardinal>
-    <Rank>10</Rank>
-    <Name>Luis Antonio Tagle</Name>
-    <Country>Philippines</Country>
-    <Born>21 June 1957</Born>
-    <Order>CB</Order>
-    <Consistory>24 November 2012</Consistory>
-    <Office>Pro-Prefect of the Dicastery for Evangelization</Office>
-    <PapalConclaveEligible>True</PapalConclaveEligible>
-    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
   </Cardinal>
   <Cardinal>
     <Rank>11</Rank>
