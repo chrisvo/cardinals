@@ -65,8 +65,8 @@ An example of an JSON object:
 ## Complete List of Cardinals
 Total: **240 cardinals**
 
-- **Eligible to vote in Papal Conclave**: 117
-- **Ineligible to vote** (over 80 years old): 123
+- **Eligible to vote in Papal Conclave**: 116
+- **Ineligible to vote** (over 80 years old): 124
 
 | Rank | Name | Country | Born | Office |
 |------|------|---------|------|--------|
@@ -287,7 +287,7 @@ Total: **240 cardinals**
 | 215 | Konrad Krajewski | Poland | 25 November 1963 | Archbishop of Łódź |
 | 216 | Aquilino Bocos Merino CMF* | Spain | 17 May 1938 | Superior General emeritus of the Missionary Sons of the Immaculate Heart of Mary |
 | 217 | José Tolentino de Mendonça | Portugal | 15 December 1965 | Prefect of the Dicastery for Culture and Education |
-| 218 | Michael Czerny SJ | Canada[x] | 18 July 1946 | Prefect emeritus of the Dicastery for Promoting Integral Human Development |
+| 218 | Michael Czerny SJ* | Canada[x] | 18 July 1946 | Prefect emeritus of the Dicastery for Promoting Integral Human Development |
 | 219 | Michael Fitzgerald MAfr* | United Kingdom | 17 August 1937 | Apostolic Nuncio emeritus |
 | 220 | Mario Grech | Malta | 20 February 1957 | Secretary-General of the Synod of Bishops |
 | 221 | Marcello Semeraro | Italy | 22 December 1947 | Prefect of the Dicastery for the Causes of Saints |
