@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-11-12
+
+### Modified Cardinals (1)
+- **Juan José Omella**
+  - Office: `Archbishop of Barcelona` → `Archbishop emeritus of Barcelona`
 ## Changes detected on 2026-10-26
 
 ### Removed Cardinals (1)
